@@ -2,6 +2,8 @@ package com.unisolar.tests.definitionSteps;
 
 import com.unisolar.tests.pages.CatalogPage;
 import com.unisolar.tests.steps.CommonSteps;
+import net.thucydides.core.annotations.Step;
+import net.thucydides.core.annotations.Steps;
 import org.jbehave.core.annotations.Given;
 import org.jbehave.core.annotations.Then;
 import org.jbehave.core.annotations.When;
@@ -9,7 +11,8 @@ import org.junit.Assert;
 
 public class commonDifinitionSteps {
 
-    private CommonSteps commonSteps;
+    @Steps
+    CommonSteps commonSteps;
 
     @Given("open unisolar main page")
     public void givenOpenMainPage() {
