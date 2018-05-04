@@ -1,15 +1,13 @@
 package com.unisolar.tests.definitionSteps;
 
-import com.unisolar.tests.pages.CatalogPage;
 import com.unisolar.tests.steps.CommonSteps;
-import net.thucydides.core.annotations.Step;
 import net.thucydides.core.annotations.Steps;
 import org.jbehave.core.annotations.Given;
 import org.jbehave.core.annotations.Then;
 import org.jbehave.core.annotations.When;
 import org.junit.Assert;
 
-public class commonDifinitionSteps {
+public class commonDefinitionSteps {
 
     @Steps
     CommonSteps commonSteps;
@@ -19,12 +17,12 @@ public class commonDifinitionSteps {
         commonSteps.openMainPage();
     }
 
-    @When("open $somePage")
+    @When("open $anyPage from navigation menu")
     public void whenOpenCatalog(String elementName) {
         commonSteps.clickCatalog(elementName);
     }
 
-    @Then("check $resultUrl adress")
+    @Then("check $resultUrl address")
     public void thenCheckUrl(String result) {
         Assert.assertEquals("http://unisolartrade.com.ua/catalog/", result);
     }

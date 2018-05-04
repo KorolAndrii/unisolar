@@ -1,9 +1,9 @@
 Scenario: Unisolar check catalog
 
 Given open unisolar main page
-When open <somePage>
-Then check <resultUrl> adress
+When download datasheet of the goods by goods <elementName> from <goodsName>
+Then check <resultUrl> address
 Examples:
-|somePage|resultUrl                             |
-|Каталог |http://unisolartrade.com.ua/catalog/  |
+|elementName        |goodsName          |
+|Каталог товаров    |Trina Solar TSM-270|
 

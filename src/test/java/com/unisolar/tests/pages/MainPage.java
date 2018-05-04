@@ -16,7 +16,7 @@ import java.util.List;
 public class MainPage extends PageObject {
 
     public WebElement getButtonFromNavigationMenu(String elementName) {
-        return getDriver().findElement(By.xpath(String.format("//*[@id='menu-main']//a[contains(text(), \"%s\")]", elementName)));
+        return getDriver().findElement(By.xpath(String.format("//*[@id='menu-main']//a[contains(text(), '%s')]", elementName)));
     }
 
     public void clickOnButtonFromNavigationMenuByName(String elementName) {
