@@ -1,10 +1,16 @@
 package com.unisolar.tests.definitionSteps;
 
 import com.unisolar.tests.steps.DownloadSteps;
+import core.Helper;
+import net.thucydides.core.annotations.Steps;
+import org.jbehave.core.annotations.Then;
 import org.jbehave.core.annotations.When;
 
-public class DownloadDefinitionSteps extends commonDefinitionSteps{
+import static core.Helper.*;
+import static org.assertj.core.api.Assertions.assertThat;
 
+public class DownloadDefinitionSteps extends commonDefinitionSteps{
+    @Steps
     DownloadSteps downloadSteps;
 
     @When("find $anyGood by name from content page and click on it")
@@ -22,7 +28,12 @@ public class DownloadDefinitionSteps extends commonDefinitionSteps{
         whenOpenCatalog(elementName);
         whenOpenGoods(goodsName);
         whenDownloadDatasheet();
+        switchToTheNextTab();
     }
 
+    @Then("compare current  pdf name with $pdfName")
+    public void thenCheckUrl(String pdfName) {
+        assertThat(pdfName).isEqualTo(findPdfName(getCurrentUrl()));
+    }
 
 }

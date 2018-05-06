@@ -2,6 +2,8 @@ package core;
 
 import org.openqa.selenium.WebDriver;
 
+import java.util.ArrayList;
+import java.util.Collections;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -18,8 +20,14 @@ public class Helper {
     }
 
     public static String findPdfName(String text) {
-        Pattern pattern = Pattern.compile("([a-zA-Z0-9_-]+)\\.(pdf)");
+        /*Pattern pattern = Pattern.compile("([a-zA-Z0-9_-]+)\\.(pdf)");
         Matcher matcher = pattern.matcher(text);
-        return matcher.group();
+        return matcher.toMatchResult().;*/
+        String[] partsOfTheUrl = text.split("/");
+        return partsOfTheUrl[partsOfTheUrl.length-1];
+    }
+
+    public static void main(String[] args) {
+        System.out.println(findPdfName("http://unisolartrade.com.ua/wp-content/uploads/Trinasolar_Honey_TSM-PD05_255-270W.pdf"));
     }
 }
