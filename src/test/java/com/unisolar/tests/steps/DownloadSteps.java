@@ -5,8 +5,8 @@ import com.unisolar.tests.pages.GoodsPage;
 
 
 public class DownloadSteps extends CommonSteps {
-     CatalogPage catalogPage;
-     GoodsPage goodsPage;
+     private CatalogPage catalogPage;
+     private GoodsPage goodsPage;
 
     public void clickOnGoodsByName(String goodsName) {
         catalogPage.clickOnGoodsByName(goodsName);

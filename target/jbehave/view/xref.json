@@ -1,0 +1,797 @@
+{"xref": {
+  "stories": [
+    {
+      "story": {
+        "path": "stories/consult_dictionary/open_catalog.story",
+        "description": {
+          "descriptionAsString": ""
+        },
+        "narrative": {
+          "inOrderTo": "",
+          "asA": "",
+          "iWantTo": "",
+          "soThat": ""
+        },
+        "meta": {
+          "properties": []
+        },
+        "givenStories": {
+          "givenStories": [],
+          "givenStoriesAsString": "",
+          "examplesTable": {
+            "tableAsString": "",
+            "headerSeparator": "|",
+            "valueSeparator": "|",
+            "ignorableSeparator": "|--",
+            "tableTransformers": {
+              "transformers": [
+                [
+                  "FORMATTING",
+                  {}
+                ],
+                [
+                  "REPLACING",
+                  {}
+                ],
+                [
+                  "FROM_LANDSCAPE",
+                  {}
+                ]
+              ]
+            },
+            "headers": [],
+            "data": [],
+            "properties": [
+              {
+                "@name": "headerSeparator",
+                "@value": "|"
+              },
+              {
+                "@name": "valueSeparator",
+                "@value": "|"
+              },
+              {
+                "@name": "ignorableSeparator",
+                "@value": "|--"
+              }
+            ],
+            "propertiesAsString": "",
+            "namedParameters": [],
+            "trim": true
+          }
+        },
+        "lifecycle": {
+          "before": {
+            "steps": [
+              []
+            ]
+          },
+          "after": []
+        },
+        "scenarios": [
+          {
+            "title": "Unisolar check catalog",
+            "meta": {
+              "properties": []
+            },
+            "givenStories": {
+              "givenStories": [],
+              "givenStoriesAsString": "",
+              "examplesTable": {
+                "tableAsString": "",
+                "headerSeparator": "|",
+                "valueSeparator": "|",
+                "ignorableSeparator": "|--",
+                "tableTransformers": {
+                  "transformers": [
+                    [
+                      "FORMATTING",
+                      {}
+                    ],
+                    [
+                      "REPLACING",
+                      {}
+                    ],
+                    [
+                      "FROM_LANDSCAPE",
+                      {}
+                    ]
+                  ]
+                },
+                "headers": [],
+                "data": [],
+                "properties": [
+                  {
+                    "@name": "headerSeparator",
+                    "@value": "|"
+                  },
+                  {
+                    "@name": "valueSeparator",
+                    "@value": "|"
+                  },
+                  {
+                    "@name": "ignorableSeparator",
+                    "@value": "|--"
+                  }
+                ],
+                "propertiesAsString": "",
+                "namedParameters": [],
+                "trim": true
+              }
+            },
+            "examplesTable": {
+              "tableAsString": "|elementName        |goodsName          |pdfName                               |\r\n|Каталог товаров    |Trina Solar TSM-270|Trinasolar_Honey_TSM-PD05_255-270W.pdf|",
+              "headerSeparator": "|",
+              "valueSeparator": "|",
+              "ignorableSeparator": "|--",
+              "tableTransformers": {
+                "transformers": [
+                  [
+                    "FORMATTING",
+                    {}
+                  ],
+                  [
+                    "REPLACING",
+                    {}
+                  ],
+                  [
+                    "FROM_LANDSCAPE",
+                    {}
+                  ]
+                ]
+              },
+              "headers": [
+                "elementName",
+                "goodsName",
+                "pdfName"
+              ],
+              "data": [
+                [
+                  [
+                    "elementName",
+                    "Каталог товаров"
+                  ],
+                  [
+                    "goodsName",
+                    "Trina Solar TSM-270"
+                  ],
+                  [
+                    "pdfName",
+                    "Trinasolar_Honey_TSM-PD05_255-270W.pdf"
+                  ]
+                ]
+              ],
+              "properties": [
+                {
+                  "@name": "headerSeparator",
+                  "@value": "|"
+                },
+                {
+                  "@name": "valueSeparator",
+                  "@value": "|"
+                },
+                {
+                  "@name": "ignorableSeparator",
+                  "@value": "|--"
+                }
+              ],
+              "propertiesAsString": "",
+              "namedParameters": [],
+              "trim": true
+            },
+            "steps": [
+              "Given open unisolar main page",
+              "When download datasheet of the goods by goods <elementName> from <goodsName>",
+              "Then compare current  pdf name with <pdfName>"
+            ]
+          }
+        ],
+        "name": "open_catalog.story"
+      },
+      "localizedNarrative": "As a \nI want to \nSo that ",
+      "allowed": true,
+      "status": "SUCCESSFUL",
+      "givenStories": [],
+      "scenarios": [
+        {
+          "scenario": {
+            "title": "Unisolar check catalog",
+            "meta": {
+              "properties": []
+            },
+            "givenStories": {
+              "givenStories": [],
+              "givenStoriesAsString": "",
+              "examplesTable": {
+                "tableAsString": "",
+                "headerSeparator": "|",
+                "valueSeparator": "|",
+                "ignorableSeparator": "|--",
+                "tableTransformers": {
+                  "transformers": [
+                    [
+                      "FORMATTING",
+                      {}
+                    ],
+                    [
+                      "REPLACING",
+                      {}
+                    ],
+                    [
+                      "FROM_LANDSCAPE",
+                      {}
+                    ]
+                  ]
+                },
+                "headers": [],
+                "data": [],
+                "properties": [
+                  {
+                    "@name": "headerSeparator",
+                    "@value": "|"
+                  },
+                  {
+                    "@name": "valueSeparator",
+                    "@value": "|"
+                  },
+                  {
+                    "@name": "ignorableSeparator",
+                    "@value": "|--"
+                  }
+                ],
+                "propertiesAsString": "",
+                "namedParameters": [],
+                "trim": true
+              }
+            },
+            "examplesTable": {
+              "tableAsString": "|elementName        |goodsName          |pdfName                               |\r\n|Каталог товаров    |Trina Solar TSM-270|Trinasolar_Honey_TSM-PD05_255-270W.pdf|",
+              "headerSeparator": "|",
+              "valueSeparator": "|",
+              "ignorableSeparator": "|--",
+              "tableTransformers": {
+                "transformers": [
+                  [
+                    "FORMATTING",
+                    {}
+                  ],
+                  [
+                    "REPLACING",
+                    {}
+                  ],
+                  [
+                    "FROM_LANDSCAPE",
+                    {}
+                  ]
+                ]
+              },
+              "headers": [
+                "elementName",
+                "goodsName",
+                "pdfName"
+              ],
+              "data": [
+                [
+                  [
+                    "elementName",
+                    "Каталог товаров"
+                  ],
+                  [
+                    "goodsName",
+                    "Trina Solar TSM-270"
+                  ],
+                  [
+                    "pdfName",
+                    "Trinasolar_Honey_TSM-PD05_255-270W.pdf"
+                  ]
+                ]
+              ],
+              "properties": [
+                {
+                  "@name": "headerSeparator",
+                  "@value": "|"
+                },
+                {
+                  "@name": "valueSeparator",
+                  "@value": "|"
+                },
+                {
+                  "@name": "ignorableSeparator",
+                  "@value": "|--"
+                }
+              ],
+              "propertiesAsString": "",
+              "namedParameters": [],
+              "trim": true
+            },
+            "steps": [
+              "Given open unisolar main page",
+              "When download datasheet of the goods by goods <elementName> from <goodsName>",
+              "Then compare current  pdf name with <pdfName>"
+            ]
+          },
+          "storyPath": "stories/consult_dictionary/open_catalog.story",
+          "allowed": true,
+          "examplePerformableScenarios": [
+            {
+              "parameters": [
+                [
+                  "elementName",
+                  "Каталог товаров"
+                ],
+                [
+                  "goodsName",
+                  "Trina Solar TSM-270"
+                ],
+                [
+                  "pdfName",
+                  "Trinasolar_Honey_TSM-PD05_255-270W.pdf"
+                ]
+              ],
+              "givenStories": [],
+              "beforeSteps": {
+                "matches": []
+              },
+              "steps": {
+                "matches": [],
+                "results": [
+                  {
+                    "step": "Given open unisolar main page",
+                    "type": "SUCCESSFUL",
+                    "parametrisedStep": "Given open unisolar main page",
+                    "durationInMillis": 4266,
+                    "start": 1525703788222,
+                    "end": 1525703792488
+                  },
+                  {
+                    "step": "When download datasheet of the goods by goods <elementName> from <goodsName>",
+                    "type": "SUCCESSFUL",
+                    "parametrisedStep": "When download datasheet of the goods by goods ｟Каталог товаров｠ from ｟Trina Solar TSM-270｠",
+                    "durationInMillis": 1932,
+                    "start": 1525703793517,
+                    "end": 1525703795449
+                  },
+                  {
+                    "step": "Then compare current  pdf name with <pdfName>",
+                    "type": "SUCCESSFUL",
+                    "parametrisedStep": "Then compare current  pdf name with ｟Trinasolar_Honey_TSM-PD05_255-270W.pdf｠",
+                    "durationInMillis": 51,
+                    "start": 1525703797216,
+                    "end": 1525703797267
+                  }
+                ]
+              },
+              "afterSteps": {
+                "matches": []
+              },
+              "storyAndScenarioMeta": {
+                "properties": []
+              },
+              "scenario": {
+                "title": "Unisolar check catalog",
+                "meta": {
+                  "properties": []
+                },
+                "givenStories": {
+                  "givenStories": [],
+                  "givenStoriesAsString": "",
+                  "examplesTable": {
+                    "tableAsString": "",
+                    "headerSeparator": "|",
+                    "valueSeparator": "|",
+                    "ignorableSeparator": "|--",
+                    "tableTransformers": {
+                      "transformers": [
+                        [
+                          "FORMATTING",
+                          {}
+                        ],
+                        [
+                          "REPLACING",
+                          {}
+                        ],
+                        [
+                          "FROM_LANDSCAPE",
+                          {}
+                        ]
+                      ]
+                    },
+                    "headers": [],
+                    "data": [],
+                    "properties": [
+                      {
+                        "@name": "headerSeparator",
+                        "@value": "|"
+                      },
+                      {
+                        "@name": "valueSeparator",
+                        "@value": "|"
+                      },
+                      {
+                        "@name": "ignorableSeparator",
+                        "@value": "|--"
+                      }
+                    ],
+                    "propertiesAsString": "",
+                    "namedParameters": [],
+                    "trim": true
+                  }
+                },
+                "examplesTable": {
+                  "tableAsString": "|elementName        |goodsName          |pdfName                               |\r\n|Каталог товаров    |Trina Solar TSM-270|Trinasolar_Honey_TSM-PD05_255-270W.pdf|",
+                  "headerSeparator": "|",
+                  "valueSeparator": "|",
+                  "ignorableSeparator": "|--",
+                  "tableTransformers": {
+                    "transformers": [
+                      [
+                        "FORMATTING",
+                        {}
+                      ],
+                      [
+                        "REPLACING",
+                        {}
+                      ],
+                      [
+                        "FROM_LANDSCAPE",
+                        {}
+                      ]
+                    ]
+                  },
+                  "headers": [
+                    "elementName",
+                    "goodsName",
+                    "pdfName"
+                  ],
+                  "data": [
+                    [
+                      [
+                        "elementName",
+                        "Каталог товаров"
+                      ],
+                      [
+                        "goodsName",
+                        "Trina Solar TSM-270"
+                      ],
+                      [
+                        "pdfName",
+                        "Trinasolar_Honey_TSM-PD05_255-270W.pdf"
+                      ]
+                    ]
+                  ],
+                  "properties": [
+                    {
+                      "@name": "headerSeparator",
+                      "@value": "|"
+                    },
+                    {
+                      "@name": "valueSeparator",
+                      "@value": "|"
+                    },
+                    {
+                      "@name": "ignorableSeparator",
+                      "@value": "|--"
+                    }
+                  ],
+                  "propertiesAsString": "",
+                  "namedParameters": [],
+                  "trim": true
+                },
+                "steps": [
+                  "Given open unisolar main page",
+                  "When download datasheet of the goods by goods <elementName> from <goodsName>",
+                  "Then compare current  pdf name with <pdfName>"
+                ]
+              }
+            }
+          ],
+          "status": "SUCCESSFUL"
+        }
+      ],
+      "beforeSteps": {},
+      "afterSteps": {},
+      "timing": {
+        "durationInMillis": 9726,
+        "start": 1525703788090,
+        "end": 1525703797816
+      },
+      "givenStory": false
+    }
+  ],
+  "scenarios": [
+    {
+      "scenario": {
+        "title": "Unisolar check catalog",
+        "meta": {
+          "properties": []
+        },
+        "givenStories": {
+          "givenStories": [],
+          "givenStoriesAsString": "",
+          "examplesTable": {
+            "tableAsString": "",
+            "headerSeparator": "|",
+            "valueSeparator": "|",
+            "ignorableSeparator": "|--",
+            "tableTransformers": {
+              "transformers": [
+                [
+                  "FORMATTING",
+                  {}
+                ],
+                [
+                  "REPLACING",
+                  {}
+                ],
+                [
+                  "FROM_LANDSCAPE",
+                  {}
+                ]
+              ]
+            },
+            "headers": [],
+            "data": [],
+            "properties": [
+              {
+                "@name": "headerSeparator",
+                "@value": "|"
+              },
+              {
+                "@name": "valueSeparator",
+                "@value": "|"
+              },
+              {
+                "@name": "ignorableSeparator",
+                "@value": "|--"
+              }
+            ],
+            "propertiesAsString": "",
+            "namedParameters": [],
+            "trim": true
+          }
+        },
+        "examplesTable": {
+          "tableAsString": "|elementName        |goodsName          |pdfName                               |\r\n|Каталог товаров    |Trina Solar TSM-270|Trinasolar_Honey_TSM-PD05_255-270W.pdf|",
+          "headerSeparator": "|",
+          "valueSeparator": "|",
+          "ignorableSeparator": "|--",
+          "tableTransformers": {
+            "transformers": [
+              [
+                "FORMATTING",
+                {}
+              ],
+              [
+                "REPLACING",
+                {}
+              ],
+              [
+                "FROM_LANDSCAPE",
+                {}
+              ]
+            ]
+          },
+          "headers": [
+            "elementName",
+            "goodsName",
+            "pdfName"
+          ],
+          "data": [
+            [
+              [
+                "elementName",
+                "Каталог товаров"
+              ],
+              [
+                "goodsName",
+                "Trina Solar TSM-270"
+              ],
+              [
+                "pdfName",
+                "Trinasolar_Honey_TSM-PD05_255-270W.pdf"
+              ]
+            ]
+          ],
+          "properties": [
+            {
+              "@name": "headerSeparator",
+              "@value": "|"
+            },
+            {
+              "@name": "valueSeparator",
+              "@value": "|"
+            },
+            {
+              "@name": "ignorableSeparator",
+              "@value": "|--"
+            }
+          ],
+          "propertiesAsString": "",
+          "namedParameters": [],
+          "trim": true
+        },
+        "steps": [
+          "Given open unisolar main page",
+          "When download datasheet of the goods by goods <elementName> from <goodsName>",
+          "Then compare current  pdf name with <pdfName>"
+        ]
+      },
+      "storyPath": "stories/consult_dictionary/open_catalog.story",
+      "allowed": true,
+      "examplePerformableScenarios": [
+        {
+          "parameters": [
+            [
+              "elementName",
+              "Каталог товаров"
+            ],
+            [
+              "goodsName",
+              "Trina Solar TSM-270"
+            ],
+            [
+              "pdfName",
+              "Trinasolar_Honey_TSM-PD05_255-270W.pdf"
+            ]
+          ],
+          "givenStories": [],
+          "beforeSteps": {
+            "matches": []
+          },
+          "steps": {
+            "matches": [],
+            "results": [
+              {
+                "step": "Given open unisolar main page",
+                "type": "SUCCESSFUL",
+                "parametrisedStep": "Given open unisolar main page",
+                "durationInMillis": 4266,
+                "start": 1525703788222,
+                "end": 1525703792488
+              },
+              {
+                "step": "When download datasheet of the goods by goods <elementName> from <goodsName>",
+                "type": "SUCCESSFUL",
+                "parametrisedStep": "When download datasheet of the goods by goods ｟Каталог товаров｠ from ｟Trina Solar TSM-270｠",
+                "durationInMillis": 1932,
+                "start": 1525703793517,
+                "end": 1525703795449
+              },
+              {
+                "step": "Then compare current  pdf name with <pdfName>",
+                "type": "SUCCESSFUL",
+                "parametrisedStep": "Then compare current  pdf name with ｟Trinasolar_Honey_TSM-PD05_255-270W.pdf｠",
+                "durationInMillis": 51,
+                "start": 1525703797216,
+                "end": 1525703797267
+              }
+            ]
+          },
+          "afterSteps": {
+            "matches": []
+          },
+          "storyAndScenarioMeta": {
+            "properties": []
+          },
+          "scenario": {
+            "title": "Unisolar check catalog",
+            "meta": {
+              "properties": []
+            },
+            "givenStories": {
+              "givenStories": [],
+              "givenStoriesAsString": "",
+              "examplesTable": {
+                "tableAsString": "",
+                "headerSeparator": "|",
+                "valueSeparator": "|",
+                "ignorableSeparator": "|--",
+                "tableTransformers": {
+                  "transformers": [
+                    [
+                      "FORMATTING",
+                      {}
+                    ],
+                    [
+                      "REPLACING",
+                      {}
+                    ],
+                    [
+                      "FROM_LANDSCAPE",
+                      {}
+                    ]
+                  ]
+                },
+                "headers": [],
+                "data": [],
+                "properties": [
+                  {
+                    "@name": "headerSeparator",
+                    "@value": "|"
+                  },
+                  {
+                    "@name": "valueSeparator",
+                    "@value": "|"
+                  },
+                  {
+                    "@name": "ignorableSeparator",
+                    "@value": "|--"
+                  }
+                ],
+                "propertiesAsString": "",
+                "namedParameters": [],
+                "trim": true
+              }
+            },
+            "examplesTable": {
+              "tableAsString": "|elementName        |goodsName          |pdfName                               |\r\n|Каталог товаров    |Trina Solar TSM-270|Trinasolar_Honey_TSM-PD05_255-270W.pdf|",
+              "headerSeparator": "|",
+              "valueSeparator": "|",
+              "ignorableSeparator": "|--",
+              "tableTransformers": {
+                "transformers": [
+                  [
+                    "FORMATTING",
+                    {}
+                  ],
+                  [
+                    "REPLACING",
+                    {}
+                  ],
+                  [
+                    "FROM_LANDSCAPE",
+                    {}
+                  ]
+                ]
+              },
+              "headers": [
+                "elementName",
+                "goodsName",
+                "pdfName"
+              ],
+              "data": [
+                [
+                  [
+                    "elementName",
+                    "Каталог товаров"
+                  ],
+                  [
+                    "goodsName",
+                    "Trina Solar TSM-270"
+                  ],
+                  [
+                    "pdfName",
+                    "Trinasolar_Honey_TSM-PD05_255-270W.pdf"
+                  ]
+                ]
+              ],
+              "properties": [
+                {
+                  "@name": "headerSeparator",
+                  "@value": "|"
+                },
+                {
+                  "@name": "valueSeparator",
+                  "@value": "|"
+                },
+                {
+                  "@name": "ignorableSeparator",
+                  "@value": "|--"
+                }
+              ],
+              "propertiesAsString": "",
+              "namedParameters": [],
+              "trim": true
+            },
+            "steps": [
+              "Given open unisolar main page",
+              "When download datasheet of the goods by goods <elementName> from <goodsName>",
+              "Then compare current  pdf name with <pdfName>"
+            ]
+          }
+        }
+      ],
+      "status": "SUCCESSFUL"
+    }
+  ]
+}}

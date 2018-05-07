@@ -1,0 +1,53 @@
+<html>
+<head>
+<title>stories.consult_dictionary.open_catalog</title>
+<style type="text/css" media="all">
+@import url( "./style/jbehave-core.css" );
+</style>
+</head>
+<body>
+ 
+<script type="syntaxhighlighter" class="brush: xml"><![CDATA[
+<story path="stories/consult_dictionary/open_catalog.story" title="">
+<scenario keyword="Scenario:" title="Unisolar check catalog">
+<examples keyword="Examples:">
+<step>Given open unisolar main page</step>
+<step>When download datasheet of the goods by goods &lt;elementName&gt; from &lt;goodsName&gt;</step>
+<step>Then compare current  pdf name with &lt;pdfName&gt;</step>
+<parameters>
+<names><name>elementName</name><name>goodsName</name><name>pdfName</name></names>
+<values><value>Каталог товаров</value><value>Trina Solar TSM-270</value><value>Trinasolar_Honey_TSM-PD05_255-270W.pdf</value></values>
+</parameters>
+
+<example keyword="Example:">{elementName=Каталог товаров, goodsName=Trina Solar TSM-270, pdfName=Trinasolar_Honey_TSM-PD05_255-270W.pdf}</example>
+<step outcome="successful">Given open unisolar main page</step>
+<step outcome="successful">When download datasheet of the goods by goods <parameter>Каталог товаров</parameter> from <parameter>Trina Solar TSM-270</parameter></step>
+<step outcome="successful">Then compare current  pdf name with <parameter>Trinasolar_Honey_TSM-PD05_255-270W.pdf</parameter></step>
+</examples>
+</scenario>
+</story>
+
+]]></script>
+</body>
+<!--  SyntaxHighlighter resources:  should be included at end of body -->
+<link rel="stylesheet" type="text/css" href="./style/sh-3.0.83/shCore.css"/>
+<link rel="stylesheet" type="text/css" href="./style/sh-3.0.83/shThemeRDark.css"/>
+<script language="javascript" src="./js/sh-3.0.83/shCore.js"></script>
+<script language="javascript" src="./js/sh-3.0.83/shBrushBash.js"></script>
+<script language="javascript" src="./js/sh-3.0.83/shBrushCss.js"></script>
+<script language="javascript" src="./js/sh-3.0.83/shBrushDiff.js"></script>
+<script language="javascript" src="./js/sh-3.0.83/shBrushGroovy.js"></script>
+<script language="javascript" src="./js/sh-3.0.83/shBrushJava.js"></script>
+<script language="javascript" src="./js/sh-3.0.83/shBrushJScript.js"></script>
+<script language="javascript" src="./js/sh-3.0.83/shBrushPlain.js"></script>
+<script language="javascript" src="./js/sh-3.0.83/shBrushPython.js"></script>
+<script language="javascript" src="./js/sh-3.0.83/shBrushRuby.js"></script>
+<script language="javascript" src="./js/sh-3.0.83/shBrushScala.js"></script>
+<script language="javascript" src="./js/sh-3.0.83/shBrushXml.js"></script>
+<script language="javascript" src="./js/shBrushBdd.js"></script>
+<script type="text/javascript">
+    SyntaxHighlighter.defaults['gutter'] = false;
+    SyntaxHighlighter.defaults['toolbar'] = false;    
+    SyntaxHighlighter.all();
+</script>
+</html>

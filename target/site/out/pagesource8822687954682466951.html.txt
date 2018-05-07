@@ -1,0 +1,1 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><body style="background-color: rgb(38,38,38); height: 100%; width: 100%; overflow: hidden; margin: 0"><embed width="100%" height="100%" name="plugin" id="plugin" src="http://unisolartrade.com.ua/wp-content/uploads/Trinasolar_Honey_TSM-PD05_255-270W.pdf" type="application/pdf" internalinstanceid="9" /></body></html>

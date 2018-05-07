@@ -1,0 +1,705 @@
+<xref>
+  <stories>
+    <performableStory>
+      <story>
+        <path>stories/consult_dictionary/open_catalog.story</path>
+        <description>
+          <descriptionAsString></descriptionAsString>
+        </description>
+        <narrative>
+          <inOrderTo></inOrderTo>
+          <asA></asA>
+          <iWantTo></iWantTo>
+          <soThat></soThat>
+        </narrative>
+        <meta>
+          <properties/>
+        </meta>
+        <givenStories>
+          <givenStories/>
+          <givenStoriesAsString></givenStoriesAsString>
+          <examplesTable>
+            <tableAsString></tableAsString>
+            <headerSeparator>|</headerSeparator>
+            <valueSeparator>|</valueSeparator>
+            <ignorableSeparator>|--</ignorableSeparator>
+            <tableTransformers>
+              <transformers>
+                <entry>
+                  <string>FORMATTING</string>
+                  <formatting/>
+                </entry>
+                <entry>
+                  <string>REPLACING</string>
+                  <replacing/>
+                </entry>
+                <entry>
+                  <string>FROM_LANDSCAPE</string>
+                  <fromLandscape/>
+                </entry>
+              </transformers>
+            </tableTransformers>
+            <headers/>
+            <data/>
+            <properties>
+              <property name="headerSeparator" value="|"/>
+              <property name="valueSeparator" value="|"/>
+              <property name="ignorableSeparator" value="|--"/>
+            </properties>
+            <propertiesAsString></propertiesAsString>
+            <namedParameters/>
+            <trim>true</trim>
+          </examplesTable>
+        </givenStories>
+        <lifecycle>
+          <before>
+            <steps class="java.util.Arrays$ArrayList">
+              <a class="string-array"/>
+            </steps>
+          </before>
+          <after/>
+        </lifecycle>
+        <scenarios>
+          <scenario>
+            <title>Unisolar check catalog</title>
+            <meta>
+              <properties/>
+            </meta>
+            <givenStories>
+              <givenStories/>
+              <givenStoriesAsString></givenStoriesAsString>
+              <examplesTable>
+                <tableAsString></tableAsString>
+                <headerSeparator>|</headerSeparator>
+                <valueSeparator>|</valueSeparator>
+                <ignorableSeparator>|--</ignorableSeparator>
+                <tableTransformers>
+                  <transformers>
+                    <entry>
+                      <string>FORMATTING</string>
+                      <formatting/>
+                    </entry>
+                    <entry>
+                      <string>REPLACING</string>
+                      <replacing/>
+                    </entry>
+                    <entry>
+                      <string>FROM_LANDSCAPE</string>
+                      <fromLandscape/>
+                    </entry>
+                  </transformers>
+                </tableTransformers>
+                <headers/>
+                <data/>
+                <properties>
+                  <property name="headerSeparator" value="|"/>
+                  <property name="valueSeparator" value="|"/>
+                  <property name="ignorableSeparator" value="|--"/>
+                </properties>
+                <propertiesAsString></propertiesAsString>
+                <namedParameters/>
+                <trim>true</trim>
+              </examplesTable>
+            </givenStories>
+            <examplesTable>
+              <tableAsString>|elementName        |goodsName          |pdfName                               |&#xd;
+|Каталог товаров    |Trina Solar TSM-270|Trinasolar_Honey_TSM-PD05_255-270W.pdf|</tableAsString>
+              <headerSeparator>|</headerSeparator>
+              <valueSeparator>|</valueSeparator>
+              <ignorableSeparator>|--</ignorableSeparator>
+              <tableTransformers>
+                <transformers>
+                  <entry>
+                    <string>FORMATTING</string>
+                    <formatting/>
+                  </entry>
+                  <entry>
+                    <string>REPLACING</string>
+                    <replacing/>
+                  </entry>
+                  <entry>
+                    <string>FROM_LANDSCAPE</string>
+                    <fromLandscape/>
+                  </entry>
+                </transformers>
+              </tableTransformers>
+              <headers>
+                <string>elementName</string>
+                <string>goodsName</string>
+                <string>pdfName</string>
+              </headers>
+              <data>
+                <linked-hash-map>
+                  <entry>
+                    <string>elementName</string>
+                    <string>Каталог товаров</string>
+                  </entry>
+                  <entry>
+                    <string>goodsName</string>
+                    <string>Trina Solar TSM-270</string>
+                  </entry>
+                  <entry>
+                    <string>pdfName</string>
+                    <string>Trinasolar_Honey_TSM-PD05_255-270W.pdf</string>
+                  </entry>
+                </linked-hash-map>
+              </data>
+              <properties>
+                <property name="headerSeparator" value="|"/>
+                <property name="valueSeparator" value="|"/>
+                <property name="ignorableSeparator" value="|--"/>
+              </properties>
+              <propertiesAsString></propertiesAsString>
+              <namedParameters/>
+              <trim>true</trim>
+            </examplesTable>
+            <steps>
+              <string>Given open unisolar main page</string>
+              <string>When download datasheet of the goods by goods &lt;elementName&gt; from &lt;goodsName&gt;</string>
+              <string>Then compare current  pdf name with &lt;pdfName&gt;</string>
+            </steps>
+          </scenario>
+        </scenarios>
+        <name>open_catalog.story</name>
+      </story>
+      <localizedNarrative>As a 
+I want to 
+So that </localizedNarrative>
+      <allowed>true</allowed>
+      <status>SUCCESSFUL</status>
+      <givenStories/>
+      <scenarios>
+        <performableScenario>
+          <scenario>
+            <title>Unisolar check catalog</title>
+            <meta>
+              <properties/>
+            </meta>
+            <givenStories>
+              <givenStories/>
+              <givenStoriesAsString></givenStoriesAsString>
+              <examplesTable>
+                <tableAsString></tableAsString>
+                <headerSeparator>|</headerSeparator>
+                <valueSeparator>|</valueSeparator>
+                <ignorableSeparator>|--</ignorableSeparator>
+                <tableTransformers>
+                  <transformers>
+                    <entry>
+                      <string>FORMATTING</string>
+                      <formatting/>
+                    </entry>
+                    <entry>
+                      <string>REPLACING</string>
+                      <replacing/>
+                    </entry>
+                    <entry>
+                      <string>FROM_LANDSCAPE</string>
+                      <fromLandscape/>
+                    </entry>
+                  </transformers>
+                </tableTransformers>
+                <headers/>
+                <data/>
+                <properties>
+                  <property name="headerSeparator" value="|"/>
+                  <property name="valueSeparator" value="|"/>
+                  <property name="ignorableSeparator" value="|--"/>
+                </properties>
+                <propertiesAsString></propertiesAsString>
+                <namedParameters/>
+                <trim>true</trim>
+              </examplesTable>
+            </givenStories>
+            <examplesTable>
+              <tableAsString>|elementName        |goodsName          |pdfName                               |&#xd;
+|Каталог товаров    |Trina Solar TSM-270|Trinasolar_Honey_TSM-PD05_255-270W.pdf|</tableAsString>
+              <headerSeparator>|</headerSeparator>
+              <valueSeparator>|</valueSeparator>
+              <ignorableSeparator>|--</ignorableSeparator>
+              <tableTransformers>
+                <transformers>
+                  <entry>
+                    <string>FORMATTING</string>
+                    <formatting/>
+                  </entry>
+                  <entry>
+                    <string>REPLACING</string>
+                    <replacing/>
+                  </entry>
+                  <entry>
+                    <string>FROM_LANDSCAPE</string>
+                    <fromLandscape/>
+                  </entry>
+                </transformers>
+              </tableTransformers>
+              <headers>
+                <string>elementName</string>
+                <string>goodsName</string>
+                <string>pdfName</string>
+              </headers>
+              <data>
+                <linked-hash-map>
+                  <entry>
+                    <string>elementName</string>
+                    <string>Каталог товаров</string>
+                  </entry>
+                  <entry>
+                    <string>goodsName</string>
+                    <string>Trina Solar TSM-270</string>
+                  </entry>
+                  <entry>
+                    <string>pdfName</string>
+                    <string>Trinasolar_Honey_TSM-PD05_255-270W.pdf</string>
+                  </entry>
+                </linked-hash-map>
+              </data>
+              <properties>
+                <property name="headerSeparator" value="|"/>
+                <property name="valueSeparator" value="|"/>
+                <property name="ignorableSeparator" value="|--"/>
+              </properties>
+              <propertiesAsString></propertiesAsString>
+              <namedParameters/>
+              <trim>true</trim>
+            </examplesTable>
+            <steps>
+              <string>Given open unisolar main page</string>
+              <string>When download datasheet of the goods by goods &lt;elementName&gt; from &lt;goodsName&gt;</string>
+              <string>Then compare current  pdf name with &lt;pdfName&gt;</string>
+            </steps>
+          </scenario>
+          <storyPath>stories/consult_dictionary/open_catalog.story</storyPath>
+          <allowed>true</allowed>
+          <examplePerformableScenarios>
+            <examplePerformableScenario>
+              <parameters class="linked-hash-map">
+                <entry>
+                  <string>elementName</string>
+                  <string>Каталог товаров</string>
+                </entry>
+                <entry>
+                  <string>goodsName</string>
+                  <string>Trina Solar TSM-270</string>
+                </entry>
+                <entry>
+                  <string>pdfName</string>
+                  <string>Trinasolar_Honey_TSM-PD05_255-270W.pdf</string>
+                </entry>
+              </parameters>
+              <givenStories/>
+              <beforeSteps>
+                <matches/>
+              </beforeSteps>
+              <steps>
+                <matches/>
+                <results>
+                  <successful>
+                    <step>Given open unisolar main page</step>
+                    <type>SUCCESSFUL</type>
+                    <parametrisedStep>Given open unisolar main page</parametrisedStep>
+                    <durationInMillis>4266</durationInMillis>
+                    <start>1525703788222</start>
+                    <end>1525703792488</end>
+                  </successful>
+                  <successful>
+                    <step>When download datasheet of the goods by goods &lt;elementName&gt; from &lt;goodsName&gt;</step>
+                    <type>SUCCESSFUL</type>
+                    <parametrisedStep>When download datasheet of the goods by goods ｟Каталог товаров｠ from ｟Trina Solar TSM-270｠</parametrisedStep>
+                    <durationInMillis>1932</durationInMillis>
+                    <start>1525703793517</start>
+                    <end>1525703795449</end>
+                  </successful>
+                  <successful>
+                    <step>Then compare current  pdf name with &lt;pdfName&gt;</step>
+                    <type>SUCCESSFUL</type>
+                    <parametrisedStep>Then compare current  pdf name with ｟Trinasolar_Honey_TSM-PD05_255-270W.pdf｠</parametrisedStep>
+                    <durationInMillis>51</durationInMillis>
+                    <start>1525703797216</start>
+                    <end>1525703797267</end>
+                  </successful>
+                </results>
+              </steps>
+              <afterSteps>
+                <matches/>
+              </afterSteps>
+              <storyAndScenarioMeta>
+                <properties/>
+              </storyAndScenarioMeta>
+              <scenario>
+                <title>Unisolar check catalog</title>
+                <meta>
+                  <properties/>
+                </meta>
+                <givenStories>
+                  <givenStories/>
+                  <givenStoriesAsString></givenStoriesAsString>
+                  <examplesTable>
+                    <tableAsString></tableAsString>
+                    <headerSeparator>|</headerSeparator>
+                    <valueSeparator>|</valueSeparator>
+                    <ignorableSeparator>|--</ignorableSeparator>
+                    <tableTransformers>
+                      <transformers>
+                        <entry>
+                          <string>FORMATTING</string>
+                          <formatting/>
+                        </entry>
+                        <entry>
+                          <string>REPLACING</string>
+                          <replacing/>
+                        </entry>
+                        <entry>
+                          <string>FROM_LANDSCAPE</string>
+                          <fromLandscape/>
+                        </entry>
+                      </transformers>
+                    </tableTransformers>
+                    <headers/>
+                    <data/>
+                    <properties>
+                      <property name="headerSeparator" value="|"/>
+                      <property name="valueSeparator" value="|"/>
+                      <property name="ignorableSeparator" value="|--"/>
+                    </properties>
+                    <propertiesAsString></propertiesAsString>
+                    <namedParameters/>
+                    <trim>true</trim>
+                  </examplesTable>
+                </givenStories>
+                <examplesTable>
+                  <tableAsString>|elementName        |goodsName          |pdfName                               |&#xd;
+|Каталог товаров    |Trina Solar TSM-270|Trinasolar_Honey_TSM-PD05_255-270W.pdf|</tableAsString>
+                  <headerSeparator>|</headerSeparator>
+                  <valueSeparator>|</valueSeparator>
+                  <ignorableSeparator>|--</ignorableSeparator>
+                  <tableTransformers>
+                    <transformers>
+                      <entry>
+                        <string>FORMATTING</string>
+                        <formatting/>
+                      </entry>
+                      <entry>
+                        <string>REPLACING</string>
+                        <replacing/>
+                      </entry>
+                      <entry>
+                        <string>FROM_LANDSCAPE</string>
+                        <fromLandscape/>
+                      </entry>
+                    </transformers>
+                  </tableTransformers>
+                  <headers>
+                    <string>elementName</string>
+                    <string>goodsName</string>
+                    <string>pdfName</string>
+                  </headers>
+                  <data>
+                    <linked-hash-map>
+                      <entry>
+                        <string>elementName</string>
+                        <string>Каталог товаров</string>
+                      </entry>
+                      <entry>
+                        <string>goodsName</string>
+                        <string>Trina Solar TSM-270</string>
+                      </entry>
+                      <entry>
+                        <string>pdfName</string>
+                        <string>Trinasolar_Honey_TSM-PD05_255-270W.pdf</string>
+                      </entry>
+                    </linked-hash-map>
+                  </data>
+                  <properties>
+                    <property name="headerSeparator" value="|"/>
+                    <property name="valueSeparator" value="|"/>
+                    <property name="ignorableSeparator" value="|--"/>
+                  </properties>
+                  <propertiesAsString></propertiesAsString>
+                  <namedParameters/>
+                  <trim>true</trim>
+                </examplesTable>
+                <steps>
+                  <string>Given open unisolar main page</string>
+                  <string>When download datasheet of the goods by goods &lt;elementName&gt; from &lt;goodsName&gt;</string>
+                  <string>Then compare current  pdf name with &lt;pdfName&gt;</string>
+                </steps>
+              </scenario>
+            </examplePerformableScenario>
+          </examplePerformableScenarios>
+          <status>SUCCESSFUL</status>
+        </performableScenario>
+      </scenarios>
+      <beforeSteps/>
+      <afterSteps/>
+      <timing>
+        <durationInMillis>9726</durationInMillis>
+        <start>1525703788090</start>
+        <end>1525703797816</end>
+      </timing>
+      <givenStory>false</givenStory>
+    </performableStory>
+  </stories>
+  <scenarios>
+    <performableScenario>
+      <scenario>
+        <title>Unisolar check catalog</title>
+        <meta>
+          <properties/>
+        </meta>
+        <givenStories>
+          <givenStories/>
+          <givenStoriesAsString></givenStoriesAsString>
+          <examplesTable>
+            <tableAsString></tableAsString>
+            <headerSeparator>|</headerSeparator>
+            <valueSeparator>|</valueSeparator>
+            <ignorableSeparator>|--</ignorableSeparator>
+            <tableTransformers>
+              <transformers>
+                <entry>
+                  <string>FORMATTING</string>
+                  <formatting/>
+                </entry>
+                <entry>
+                  <string>REPLACING</string>
+                  <replacing/>
+                </entry>
+                <entry>
+                  <string>FROM_LANDSCAPE</string>
+                  <fromLandscape/>
+                </entry>
+              </transformers>
+            </tableTransformers>
+            <headers/>
+            <data/>
+            <properties>
+              <property name="headerSeparator" value="|"/>
+              <property name="valueSeparator" value="|"/>
+              <property name="ignorableSeparator" value="|--"/>
+            </properties>
+            <propertiesAsString></propertiesAsString>
+            <namedParameters/>
+            <trim>true</trim>
+          </examplesTable>
+        </givenStories>
+        <examplesTable>
+          <tableAsString>|elementName        |goodsName          |pdfName                               |&#xd;
+|Каталог товаров    |Trina Solar TSM-270|Trinasolar_Honey_TSM-PD05_255-270W.pdf|</tableAsString>
+          <headerSeparator>|</headerSeparator>
+          <valueSeparator>|</valueSeparator>
+          <ignorableSeparator>|--</ignorableSeparator>
+          <tableTransformers>
+            <transformers>
+              <entry>
+                <string>FORMATTING</string>
+                <formatting/>
+              </entry>
+              <entry>
+                <string>REPLACING</string>
+                <replacing/>
+              </entry>
+              <entry>
+                <string>FROM_LANDSCAPE</string>
+                <fromLandscape/>
+              </entry>
+            </transformers>
+          </tableTransformers>
+          <headers>
+            <string>elementName</string>
+            <string>goodsName</string>
+            <string>pdfName</string>
+          </headers>
+          <data>
+            <linked-hash-map>
+              <entry>
+                <string>elementName</string>
+                <string>Каталог товаров</string>
+              </entry>
+              <entry>
+                <string>goodsName</string>
+                <string>Trina Solar TSM-270</string>
+              </entry>
+              <entry>
+                <string>pdfName</string>
+                <string>Trinasolar_Honey_TSM-PD05_255-270W.pdf</string>
+              </entry>
+            </linked-hash-map>
+          </data>
+          <properties>
+            <property name="headerSeparator" value="|"/>
+            <property name="valueSeparator" value="|"/>
+            <property name="ignorableSeparator" value="|--"/>
+          </properties>
+          <propertiesAsString></propertiesAsString>
+          <namedParameters/>
+          <trim>true</trim>
+        </examplesTable>
+        <steps>
+          <string>Given open unisolar main page</string>
+          <string>When download datasheet of the goods by goods &lt;elementName&gt; from &lt;goodsName&gt;</string>
+          <string>Then compare current  pdf name with &lt;pdfName&gt;</string>
+        </steps>
+      </scenario>
+      <storyPath>stories/consult_dictionary/open_catalog.story</storyPath>
+      <allowed>true</allowed>
+      <examplePerformableScenarios>
+        <examplePerformableScenario>
+          <parameters class="linked-hash-map">
+            <entry>
+              <string>elementName</string>
+              <string>Каталог товаров</string>
+            </entry>
+            <entry>
+              <string>goodsName</string>
+              <string>Trina Solar TSM-270</string>
+            </entry>
+            <entry>
+              <string>pdfName</string>
+              <string>Trinasolar_Honey_TSM-PD05_255-270W.pdf</string>
+            </entry>
+          </parameters>
+          <givenStories/>
+          <beforeSteps>
+            <matches/>
+          </beforeSteps>
+          <steps>
+            <matches/>
+            <results>
+              <successful>
+                <step>Given open unisolar main page</step>
+                <type>SUCCESSFUL</type>
+                <parametrisedStep>Given open unisolar main page</parametrisedStep>
+                <durationInMillis>4266</durationInMillis>
+                <start>1525703788222</start>
+                <end>1525703792488</end>
+              </successful>
+              <successful>
+                <step>When download datasheet of the goods by goods &lt;elementName&gt; from &lt;goodsName&gt;</step>
+                <type>SUCCESSFUL</type>
+                <parametrisedStep>When download datasheet of the goods by goods ｟Каталог товаров｠ from ｟Trina Solar TSM-270｠</parametrisedStep>
+                <durationInMillis>1932</durationInMillis>
+                <start>1525703793517</start>
+                <end>1525703795449</end>
+              </successful>
+              <successful>
+                <step>Then compare current  pdf name with &lt;pdfName&gt;</step>
+                <type>SUCCESSFUL</type>
+                <parametrisedStep>Then compare current  pdf name with ｟Trinasolar_Honey_TSM-PD05_255-270W.pdf｠</parametrisedStep>
+                <durationInMillis>51</durationInMillis>
+                <start>1525703797216</start>
+                <end>1525703797267</end>
+              </successful>
+            </results>
+          </steps>
+          <afterSteps>
+            <matches/>
+          </afterSteps>
+          <storyAndScenarioMeta>
+            <properties/>
+          </storyAndScenarioMeta>
+          <scenario>
+            <title>Unisolar check catalog</title>
+            <meta>
+              <properties/>
+            </meta>
+            <givenStories>
+              <givenStories/>
+              <givenStoriesAsString></givenStoriesAsString>
+              <examplesTable>
+                <tableAsString></tableAsString>
+                <headerSeparator>|</headerSeparator>
+                <valueSeparator>|</valueSeparator>
+                <ignorableSeparator>|--</ignorableSeparator>
+                <tableTransformers>
+                  <transformers>
+                    <entry>
+                      <string>FORMATTING</string>
+                      <formatting/>
+                    </entry>
+                    <entry>
+                      <string>REPLACING</string>
+                      <replacing/>
+                    </entry>
+                    <entry>
+                      <string>FROM_LANDSCAPE</string>
+                      <fromLandscape/>
+                    </entry>
+                  </transformers>
+                </tableTransformers>
+                <headers/>
+                <data/>
+                <properties>
+                  <property name="headerSeparator" value="|"/>
+                  <property name="valueSeparator" value="|"/>
+                  <property name="ignorableSeparator" value="|--"/>
+                </properties>
+                <propertiesAsString></propertiesAsString>
+                <namedParameters/>
+                <trim>true</trim>
+              </examplesTable>
+            </givenStories>
+            <examplesTable>
+              <tableAsString>|elementName        |goodsName          |pdfName                               |&#xd;
+|Каталог товаров    |Trina Solar TSM-270|Trinasolar_Honey_TSM-PD05_255-270W.pdf|</tableAsString>
+              <headerSeparator>|</headerSeparator>
+              <valueSeparator>|</valueSeparator>
+              <ignorableSeparator>|--</ignorableSeparator>
+              <tableTransformers>
+                <transformers>
+                  <entry>
+                    <string>FORMATTING</string>
+                    <formatting/>
+                  </entry>
+                  <entry>
+                    <string>REPLACING</string>
+                    <replacing/>
+                  </entry>
+                  <entry>
+                    <string>FROM_LANDSCAPE</string>
+                    <fromLandscape/>
+                  </entry>
+                </transformers>
+              </tableTransformers>
+              <headers>
+                <string>elementName</string>
+                <string>goodsName</string>
+                <string>pdfName</string>
+              </headers>
+              <data>
+                <linked-hash-map>
+                  <entry>
+                    <string>elementName</string>
+                    <string>Каталог товаров</string>
+                  </entry>
+                  <entry>
+                    <string>goodsName</string>
+                    <string>Trina Solar TSM-270</string>
+                  </entry>
+                  <entry>
+                    <string>pdfName</string>
+                    <string>Trinasolar_Honey_TSM-PD05_255-270W.pdf</string>
+                  </entry>
+                </linked-hash-map>
+              </data>
+              <properties>
+                <property name="headerSeparator" value="|"/>
+                <property name="valueSeparator" value="|"/>
+                <property name="ignorableSeparator" value="|--"/>
+              </properties>
+              <propertiesAsString></propertiesAsString>
+              <namedParameters/>
+              <trim>true</trim>
+            </examplesTable>
+            <steps>
+              <string>Given open unisolar main page</string>
+              <string>When download datasheet of the goods by goods &lt;elementName&gt; from &lt;goodsName&gt;</string>
+              <string>Then compare current  pdf name with &lt;pdfName&gt;</string>
+            </steps>
+          </scenario>
+        </examplePerformableScenario>
+      </examplePerformableScenarios>
+      <status>SUCCESSFUL</status>
+    </performableScenario>
+  </scenarios>
+</xref>

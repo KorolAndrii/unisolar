@@ -9,7 +9,7 @@ import static org.hamcrest.Matchers.hasItem;
 
 public class CommonSteps {
 
-     MainPage mainPage;
+     private MainPage mainPage;
 
     @Step
     public void openMainPage() {

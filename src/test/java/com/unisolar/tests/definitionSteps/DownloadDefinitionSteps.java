@@ -11,6 +11,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 public class DownloadDefinitionSteps extends commonDefinitionSteps{
     @Steps
+    private
     DownloadSteps downloadSteps;
 
     @When("find $anyGood by name from content page and click on it")
