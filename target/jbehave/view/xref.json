@@ -339,25 +339,25 @@
                     "step": "Given open unisolar main page",
                     "type": "SUCCESSFUL",
                     "parametrisedStep": "Given open unisolar main page",
-                    "durationInMillis": 4266,
-                    "start": 1525703788222,
-                    "end": 1525703792488
+                    "durationInMillis": 5052,
+                    "start": 1526034095637,
+                    "end": 1526034100689
                   },
                   {
                     "step": "When download datasheet of the goods by goods <elementName> from <goodsName>",
                     "type": "SUCCESSFUL",
                     "parametrisedStep": "When download datasheet of the goods by goods ｟Каталог товаров｠ from ｟Trina Solar TSM-270｠",
-                    "durationInMillis": 1932,
-                    "start": 1525703793517,
-                    "end": 1525703795449
+                    "durationInMillis": 1547,
+                    "start": 1526034102079,
+                    "end": 1526034103626
                   },
                   {
                     "step": "Then compare current  pdf name with <pdfName>",
                     "type": "SUCCESSFUL",
                     "parametrisedStep": "Then compare current  pdf name with ｟Trinasolar_Honey_TSM-PD05_255-270W.pdf｠",
-                    "durationInMillis": 51,
-                    "start": 1525703797216,
-                    "end": 1525703797267
+                    "durationInMillis": 57,
+                    "start": 1526034105235,
+                    "end": 1526034105292
                   }
                 ]
               },
@@ -491,9 +491,9 @@
       "beforeSteps": {},
       "afterSteps": {},
       "timing": {
-        "durationInMillis": 9726,
-        "start": 1525703788090,
-        "end": 1525703797816
+        "durationInMillis": 10529,
+        "start": 1526034095360,
+        "end": 1526034105889
       },
       "givenStory": false
     }
@@ -645,25 +645,25 @@
                 "step": "Given open unisolar main page",
                 "type": "SUCCESSFUL",
                 "parametrisedStep": "Given open unisolar main page",
-                "durationInMillis": 4266,
-                "start": 1525703788222,
-                "end": 1525703792488
+                "durationInMillis": 5052,
+                "start": 1526034095637,
+                "end": 1526034100689
               },
               {
                 "step": "When download datasheet of the goods by goods <elementName> from <goodsName>",
                 "type": "SUCCESSFUL",
                 "parametrisedStep": "When download datasheet of the goods by goods ｟Каталог товаров｠ from ｟Trina Solar TSM-270｠",
-                "durationInMillis": 1932,
-                "start": 1525703793517,
-                "end": 1525703795449
+                "durationInMillis": 1547,
+                "start": 1526034102079,
+                "end": 1526034103626
               },
               {
                 "step": "Then compare current  pdf name with <pdfName>",
                 "type": "SUCCESSFUL",
                 "parametrisedStep": "Then compare current  pdf name with ｟Trinasolar_Honey_TSM-PD05_255-270W.pdf｠",
-                "durationInMillis": 51,
-                "start": 1525703797216,
-                "end": 1525703797267
+                "durationInMillis": 57,
+                "start": 1526034105235,
+                "end": 1526034105292
               }
             ]
           },

@@ -1,7 +1,6 @@
 package com.unisolar.tests.definitionSteps;
 
 import com.unisolar.tests.steps.DownloadSteps;
-import core.Helper;
 import net.thucydides.core.annotations.Steps;
 import org.jbehave.core.annotations.Then;
 import org.jbehave.core.annotations.When;
@@ -9,7 +8,7 @@ import org.jbehave.core.annotations.When;
 import static core.Helper.*;
 import static org.assertj.core.api.Assertions.assertThat;
 
-public class DownloadDefinitionSteps extends commonDefinitionSteps{
+public class DownloadDefinitionSteps extends CommonDefinitionSteps {
     @Steps
     private
     DownloadSteps downloadSteps;

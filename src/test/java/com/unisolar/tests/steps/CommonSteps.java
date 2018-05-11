@@ -1,15 +1,14 @@
 package com.unisolar.tests.steps;
 
 import com.unisolar.tests.pages.MainPage;
+import lombok.Getter;
+import lombok.Setter;
 import net.thucydides.core.annotations.Step;
-import net.thucydides.core.annotations.Steps;
-
-import static org.hamcrest.MatcherAssert.assertThat;
-import static org.hamcrest.Matchers.hasItem;
-
+@Getter
+@Setter
 public class CommonSteps {
 
-     private MainPage mainPage;
+    protected MainPage mainPage;
 
     @Step
     public void openMainPage() {
@@ -20,5 +19,4 @@ public class CommonSteps {
     public void clickCatalog(String elementName) {
         mainPage.clickOnButtonFromNavigationMenuByName(elementName);
     }
-
 }

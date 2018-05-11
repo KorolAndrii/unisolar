@@ -2,581 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aef8c1c4-8d10-4936-9167-357c56c898a3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/00a1aa6914f019ee5bafdf8bf04b6545c82ba872c59f4d3541a33973a94d23c1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/011b2c731528dd1a7073ad842fe0bb81550c2a0b084e9559ab51e3ef9f120063.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/0161f147acb1f489db9fc0cc443f273ce224a16bebb47db2468096052059bbdb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/01fc23578f7d88ec7f81eb53278b70281e553fb17025470cde965521184bb8a1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/057ff9f186f878a611549d333917a662fd495d61167a1b1b868b75a2abd17392.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/071febcf32a2adf6cdf1c139a92b7d77988313c830041dec9d75b2163833e075.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/0795009f0076c2ec18cd6228c38d23331eb213070afd809f1392e79d5537391f.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/07a26be28186fbfebec867346fe32f890a6cfd27882ad4e23af1ae7b6faf20fd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/081e9f36bc5b77ee2c86a5bc0099db569437c0c65d400488b1c8b5b229ae6cff.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/09c36ebb46ed40aa508b10373e042fc3811901e18dfce932412cd35f81efbe05.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/09f5559c42772e15a37f9bd17c3dac2b39789bae22c5781cf44bdf01cab839c4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/0e57288031b89eb8d4a749d7fb253c4fde7e9ab9c5310d99d2dce85be82e706b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/0f4b8837d7d599fe35e0fa2c753eed5de398e489b5ee6544ab1b1a4b128c98e5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/0fb7aab3b20b96afc8b7d755e91a1742f58a0378c989cb9417fe6b136dab5cd9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/1702242cde92772dd7c47cd7fcbe38ccc2e94b4b26b35bf4fda2eeed3ce76c09.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/191f370766d3b360dd6a642db78e9c68d05866452aacaff8aee804071369f2e1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/1a95095fd870aeec160289f30ada206e14e251b215e987986dc512d1cb7df027.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/1ae3271bb1e9bce44b1bb929c362bd2352e13a730328e1cf564301c6c7816050.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/1ec84737cd177cdba46da4d09b161d4ef5715dff1155d16ef3c20660671c75cb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/1fd5a76a18f4e110b968faf42b3a1b4f59648ab0c97d34ce9c1983043fb0796c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/20c1b7bcf59d12e7c00d784cae5bbdcccfa00ffc02aa8e662aa839006f7f4123.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/21805d1d0db5b34344aeefcf03d103b1cc8b3b16c553ffc7313a17c1e1d45da8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/22a154880cacb1b57bcf45454f201930c17f35e759957a17ccdfc7037d2090e7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/267dccd74cb390c945209b0b1057749cbdbfd5951258c836867ca71b57ad2572.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/278fa85e51b04da212bdbdeeecef6e0d7abbc9130d1c28ee06001088684e6e0f.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/2792adacf66a764218c55c602e403a72224590e8a0683ffbce8aad1ccd935cc2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/27ec321efaff6ed95990bfa85c380b17472c634bab26bbb7601c4a0e4ce7f5aa.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/2d25fc6c68428a00b13c78b7317480ac8aec8c997ed826bfd039efc5bd69bb4c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/31e5a4258088da0c585b8973585157f36be9a783bd3b14d9df9879c6cf61f34a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/36b095ff70e8001203d302b196cad49053f88a3077002b8d019850787e11ecf6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/3bcffd22baf3d74c3fe6bd105a6f4e451e9605af03366127231df7c408cd85f6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/3ccf40296bd356a90aa4406459d191d1f3b41b84d695d2c8a0bc8f5f5e5f37da.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/406192ba3772d837166af6f786094e0077cead463fec229fbcc183bd39cd75ad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/414726f5989d05dec4f496220a6379bbcc838ce0129f7c73090c5b6620113601.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/4379b28ec41d5d30cf6d04f9fd286100daf258b4b7e359177bff0c8cf07c40d9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/456f0d5f88a4f6e0d293be5ea70d26d4a56154d7b547b4c5a06eb53a4c7f4d90.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/461664f7a9dfd8a5acf386da0e2901f986e1be40ad467cb09fd580b27b2bbc65.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/4c38729da7782f03c03128ad5bee107082c6ed6be0f6eb20f7c167e33440d4d1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/4d53e481236bffd1307de13abaffac2ba0c57b078e913c90cb801bea2d98ba74.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/538c7c8aac776cadb329922396f639ce74f344ee52bef89eab43548211f06fb5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/538d6d4a06391e1b369b89307d6629c2ec08120ec6d6bb3394e525987cb82aab.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/589df2aee1cb60727dfea9566a7eb9291d9ad8b876c3c9b6b520252c16d5354b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/58c19d7b8e42d2e02cc4a07e161c0370017132fe43c8f59d4dc7eacb4c62bcdf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/5eadc74e4048d55d791cb147b40f6cdec62574baff14b8fc2da2bc208802e67e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/5eb947cae1e4ba9b510e6f6ceb025ae57c6e7e95938c871306bce847a7311005.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/6345200737f52461866e2461c8b2ca9d091416be86edc93139b86fcde2557c65.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/6397d7bc42dc3c8ec0f8bcadac1242d522ebeb1230a56861951c0cffff2cd4d8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/655971f7234b61ac440f6d7876ebc22fd0f61f5a66f7f6dad129c207e991c76e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/679e1dc7cd070f4180c95e21765ced5cfb1d968328afc67c405070d3f1a6ac2f.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/68db9b820cd32c2d7a7173fdf6fa39971abdd704ff21ca604002c5dbde1b30e5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/6932507e0f15554f0e996311ff11669a04a5b09a0dbcd498cb981df06b4bf4fb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/69a1c44ea62d1210104aa024437e7876757824e60a61285dceb931b41efb9efa.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/6ad4d9bc6dc95a36efa88a864af41083a597ba7f3023f47543108cdb4d40bbde.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/6f492f30c66a36d11366571a76874834df81a6ba2b7b61cc450cb07b4ca421c5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/71ff89818b2ed730355fd7b8aa0527792b7f18653ba87ee202ce74d027f56aa9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/721ee881522417e5a14585cd74a0233eeb24da92054c81533ce33ef32bd61314.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/7763ae2db19338934928a888e1551fd35eebcd20d787daca3ca6168a7d9fc091.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/79b96ba61220976a7cf37cd429a22d69fc7769128d25dfe2b5c4dfce083d8a02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/7a6a9caa94cb8ce2fc39395e993fca2430203806c3fb581bf1d35acd3f824158.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/7b3c407662a994e9d2683e75a984d708e7babd8c86684da08027d5cac2f3374a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/7ca08bfa43c04641b5e0e2f7b8b90ca0c7cdcd66189c3516de07160e3012e7de.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/7cdc042401c429f9a296c9ce2d4aabbd2f698616d7e6a6b7d487e363b0cc9f8e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/7e47c348a63695c920cf678be2452ba752220f3ab98e151850e51dc1c9dc3914.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/807e9c3580dbfee945cd9466061013a414c7aded98c080b1a92458d30d4e7ad7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/847511ead014d8215905a4d77905194d91aa58927f254f6173f3babafaa91a9f.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/859ee7f973ae62b0d60a9e9f2d9c76ed6a44e15a93864bb56d64ce7a62abebda.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/877695e945a58faa7c06bc6297d288bcfc66193115de2ed42934ca714cc9da89.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/8b72cfac6769e93e4133ee0e4be1e5266c3134569461606d02fc6b111c7c2d4f.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/8c7567a03e43fc2f6fdc22bab45d49569e74fa3da358cd0e0465436a8cd98089.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/8ff86ac9afd0ab04e00dd964d589314f86884faf7e2405ce9949c20022cde5a1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/912dba6ce9d215160c80a7cefa160555dda104df2c9d8888273aeb4fc8bab005.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/9468af151a16c399818137e8896deaa7c244422fa7df47c11346b01d699ac7c9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/99cc0f82496a87d1440c51143571dcf5245d7a9edb8140a3dd62f3f91e2587b8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/9a3b9abaf5769fb09a10cd8633d6fd4002754bad71e54590cb23a6647ce07597.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/9ca9affc1b7d7c48fcac71d5693e27dbf8e0f5ee1b175d08d57693613e5161bb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/9d549b06a05d5f4ad9a310c90baf67df52adf952928822619e1af186a56f82c2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/a0a578dbdcf14c44392c79a23efda1c1f3fc0027e8f5eac8185beb1d873eb703.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/a4239055e2f7ffd3ed7c7741be78b67b4bc9b70bfdf3b51598276618bf8b60e0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/a5b27c8debc829c77df4b03634a38fed90545e80c1aa7c02fa4514c9718a1930.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/a5c1614f090d51f4939993ea86e42372bcd9e5116e51c591475e763833c5128c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/a93e2ff6163f2a1f19ef597c6780525c057909add04bd5e08feeea7dcaf3628b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/a94aff993e121c057e385d6a8329a9d85ab7f2429bb95b95dd5976d587bfdea5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/a94f2c022760225338b6c0749c59575e27af4212c2440050efc9e7c7cf9a91fb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/ab40638f180f95f661690aeb39591707665f60c05a9583579453d9c43661c120.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/ac2d6424718d3521bd7ae48bc9640027c0c1adc198b8edc39558688a13087124.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/acc8f0cd21d9b13fd0eec6fa008e04b1c31d201763a5956723ddda03dca013fe.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/b088f3ff260a77aea6f68af8b7597195434e2c632df94bbebc068cd587340787.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/b344adc004ac82ef168deeffb329b6a3074d69797a7e322adae23f651d2dc2c3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/b6a95829d721d983343f092abe41f2f2ed9dbd0c4594e8acd116808d8ff2e550.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/bbbc39b6e3d1fb7b9355d38522891d7a550644dcc5f6979dddb385b7ccc21a89.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/bf345c5cd3ffb4b9edc6cd762e91b71aea00440218e2bf1017cf6696b0f290e8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/c23d39c7631960bb6a4a9242a84bcc0be9583e88f7fc9081f249d28a1095cb62.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/c289b3fe0bb4b45a678e3e8cf6938a03e99eb4a76466eb1bd73e546747767ffa.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/c624468717c1c1f8e5bd83e6ca4e33ed119493e717072ca74d7d67eb8a785c81.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/c7760332bafd15c5dcdda9e2021f968a55ed7b7806ffc134c168a162e3936443.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/c948e42620eba4239ce9ce411f6920eca52b0fd652c96c87dd531c6b7654f35e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/cb62677d78aefb6ad393207f9028da522a7a7522d4e310e0d80cd46e71a77ee4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/cee750b3bfa11b997d806273ed1f720b2d3ec5f48eec0586e5e091e20e4e03cd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/d181c5b7e6adde87faa53fdfbda18fb14c80e2b0aa8e273ca978792637aaa923.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/d1fc5e0bbcf3b67ee2e3f5ad76454959053208b0fd8c01e335cba2c115b251cf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/d2dc91ac47be094599292e7a8511a6a6f4a3c8f6f5077ef989b1a30b9f2961ec.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/d41110e5ab98aeee68f845e3bb30b05503438d829be20ae40c76840ec7a2618b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/d988016c0b3d84a51108985a344d3bea63de0c2ae6c42dc82657248a883c9a8e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/datatables/1.10.4/media/images/Sorting icons.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/datatables/1.10.4/media/images/back_disabled.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/datatables/1.10.4/media/images/back_enabled.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/datatables/1.10.4/media/images/back_enabled_hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/datatables/1.10.4/media/images/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/datatables/1.10.4/media/images/forward_disabled.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/datatables/1.10.4/media/images/forward_enabled.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/datatables/1.10.4/media/images/forward_enabled_hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/datatables/1.10.4/media/images/sort_asc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/datatables/1.10.4/media/images/sort_asc_disabled.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/datatables/1.10.4/media/images/sort_both.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/datatables/1.10.4/media/images/sort_desc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/datatables/1.10.4/media/images/sort_desc_disabled.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/dbee4c12031a9acd671daffb952619696cbd8d38d6509495a5e1583d58b08feb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/dd6f97fb94e0daf9b830440754a7665b9b8cfe4aef0b8daec290dff7bb844242.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/de876d614674d2976243bd630325da648947c39835199054a39f1916da564ec4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/e1466f125bb81c77813927ad01c5a0e3a2179e9e81f1f77ef3d6d5bae6339340.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/e4b598df3fc63c3a591bb109505030d858f935039f9a669a74d193d436fcdf8c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/e5cb33cca43d871f3fafa60178f8e0b93ffb7e14b53bc6046662100e984413a8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/ecae4a8d3714915b25902575586bac61166394d26d09ee58a5b1b933a22489f8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/f1ff9ac6b94289519e84fede5570a729d129b61d2c658aeb7a609b075869bd0a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/f7251e700aa58e196b1ce932b2d5d860b1c4f5fc97ee47de75285069ebeee517.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/f7b0ca5bb69f589864ff9d38b903ba8f0aefca8d712f07364746cb7605df82f5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/f817cc8da8a58709f18f98c225cff15db2f04f76eb24f57481b11b7e1344e264.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/f86da3f7b1106dc0679b5c1a9686391a78da5b0b84951ecbaa89eeb74c2ea446.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/fdf68edb4ff599dd3300d3b71018a53426eb314187f07ebb083de80b89f7b0dc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/febfb592e7919eea9f1e8c61698c89818dea783174cd606b6aae8e89513060b1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/font-awesome/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/font-awesome/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/bg_01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/bg_04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/bottomm.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/cross.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/driver-appium.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/driver-chrome.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/driver-firefox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/driver-htmlunit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/driver-iexplorer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/driver-opera.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/driver-phantomjs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/driver-provided.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/driver-remote.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/driver-safari.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/fail.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/greenline.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/ico-q.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/icon-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/ignor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/links_menu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/logo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/menu_f.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/menu_h.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/menu_s.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/middle-left.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/middle-right.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/middle.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/minus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/pending.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/plus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/screen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/serenity-bdd-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/skip.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/small-middle-left.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/small-middle-right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/small-middle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/success.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/tablebg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/tick.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/top-left.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/top-right.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/top.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/topm.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/traffic-green.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/traffic-in-progress.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/traffic-orange.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/traffic-red.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/traffic-yellow.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/video.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/images/worker.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jit/css/col1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jit/css/col2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jit/css/gradient.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqtree/0.22/jqtree-circle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqueryui/1.11.2-start/images/ui-bg_flat_55_999999_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqueryui/1.11.2-start/images/ui-bg_flat_75_aaaaaa_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqueryui/1.11.2-start/images/ui-bg_glass_45_0078ae_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqueryui/1.11.2-start/images/ui-bg_glass_55_f8da4e_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqueryui/1.11.2-start/images/ui-bg_glass_75_79c9ec_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqueryui/1.11.2-start/images/ui-bg_gloss-wave_45_e14f1c_500x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqueryui/1.11.2-start/images/ui-bg_gloss-wave_50_6eac2c_500x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqueryui/1.11.2-start/images/ui-bg_gloss-wave_75_2191c0_500x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqueryui/1.11.2-start/images/ui-bg_inset-hard_100_fcfdfd_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqueryui/1.11.2-start/images/ui-icons_0078ae_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqueryui/1.11.2-start/images/ui-icons_056b93_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqueryui/1.11.2-start/images/ui-icons_d8e7f3_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqueryui/1.11.2-start/images/ui-icons_e0fdff_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqueryui/1.11.2-start/images/ui-icons_f5e175_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqueryui/1.11.2-start/images/ui-icons_f7a50d_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqueryui/1.11.2-start/images/ui-icons_fcd113_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/nivo-slider/3.2/demo/images/dev7logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/nivo-slider/3.2/demo/images/nemo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/nivo-slider/3.2/demo/images/toystory.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/nivo-slider/3.2/demo/images/up.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/nivo-slider/3.2/demo/images/walle.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/nivo-slider/3.2/themes/bar/arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/nivo-slider/3.2/themes/bar/bullets.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/nivo-slider/3.2/themes/bar/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/nivo-slider/3.2/themes/dark/arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/nivo-slider/3.2/themes/dark/bullets.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/nivo-slider/3.2/themes/dark/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/nivo-slider/3.2/themes/default/arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/nivo-slider/3.2/themes/default/bullets.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/nivo-slider/3.2/themes/default/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/nivo-slider/3.2/themes/light/arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/nivo-slider/3.2/themes/light/bullets.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/nivo-slider/3.2/themes/light/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_00a1aa6914f019ee5bafdf8bf04b6545c82ba872c59f4d3541a33973a94d23c1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_011b2c731528dd1a7073ad842fe0bb81550c2a0b084e9559ab51e3ef9f120063.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_0161f147acb1f489db9fc0cc443f273ce224a16bebb47db2468096052059bbdb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_01fc23578f7d88ec7f81eb53278b70281e553fb17025470cde965521184bb8a1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_057ff9f186f878a611549d333917a662fd495d61167a1b1b868b75a2abd17392.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_071febcf32a2adf6cdf1c139a92b7d77988313c830041dec9d75b2163833e075.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_0795009f0076c2ec18cd6228c38d23331eb213070afd809f1392e79d5537391f.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_07a26be28186fbfebec867346fe32f890a6cfd27882ad4e23af1ae7b6faf20fd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_081e9f36bc5b77ee2c86a5bc0099db569437c0c65d400488b1c8b5b229ae6cff.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_09c36ebb46ed40aa508b10373e042fc3811901e18dfce932412cd35f81efbe05.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_09f5559c42772e15a37f9bd17c3dac2b39789bae22c5781cf44bdf01cab839c4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_0e57288031b89eb8d4a749d7fb253c4fde7e9ab9c5310d99d2dce85be82e706b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_0f4b8837d7d599fe35e0fa2c753eed5de398e489b5ee6544ab1b1a4b128c98e5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_0fb7aab3b20b96afc8b7d755e91a1742f58a0378c989cb9417fe6b136dab5cd9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_1702242cde92772dd7c47cd7fcbe38ccc2e94b4b26b35bf4fda2eeed3ce76c09.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_191f370766d3b360dd6a642db78e9c68d05866452aacaff8aee804071369f2e1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_1a95095fd870aeec160289f30ada206e14e251b215e987986dc512d1cb7df027.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_1ae3271bb1e9bce44b1bb929c362bd2352e13a730328e1cf564301c6c7816050.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_1ec84737cd177cdba46da4d09b161d4ef5715dff1155d16ef3c20660671c75cb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_1fd5a76a18f4e110b968faf42b3a1b4f59648ab0c97d34ce9c1983043fb0796c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_20c1b7bcf59d12e7c00d784cae5bbdcccfa00ffc02aa8e662aa839006f7f4123.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_22a154880cacb1b57bcf45454f201930c17f35e759957a17ccdfc7037d2090e7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_267dccd74cb390c945209b0b1057749cbdbfd5951258c836867ca71b57ad2572.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_278fa85e51b04da212bdbdeeecef6e0d7abbc9130d1c28ee06001088684e6e0f.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_2792adacf66a764218c55c602e403a72224590e8a0683ffbce8aad1ccd935cc2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_27ec321efaff6ed95990bfa85c380b17472c634bab26bbb7601c4a0e4ce7f5aa.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_31e5a4258088da0c585b8973585157f36be9a783bd3b14d9df9879c6cf61f34a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_36b095ff70e8001203d302b196cad49053f88a3077002b8d019850787e11ecf6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_3bcffd22baf3d74c3fe6bd105a6f4e451e9605af03366127231df7c408cd85f6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_3ccf40296bd356a90aa4406459d191d1f3b41b84d695d2c8a0bc8f5f5e5f37da.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_406192ba3772d837166af6f786094e0077cead463fec229fbcc183bd39cd75ad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_4379b28ec41d5d30cf6d04f9fd286100daf258b4b7e359177bff0c8cf07c40d9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_456f0d5f88a4f6e0d293be5ea70d26d4a56154d7b547b4c5a06eb53a4c7f4d90.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_461664f7a9dfd8a5acf386da0e2901f986e1be40ad467cb09fd580b27b2bbc65.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_4c38729da7782f03c03128ad5bee107082c6ed6be0f6eb20f7c167e33440d4d1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_4d53e481236bffd1307de13abaffac2ba0c57b078e913c90cb801bea2d98ba74.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_538c7c8aac776cadb329922396f639ce74f344ee52bef89eab43548211f06fb5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_538d6d4a06391e1b369b89307d6629c2ec08120ec6d6bb3394e525987cb82aab.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_589df2aee1cb60727dfea9566a7eb9291d9ad8b876c3c9b6b520252c16d5354b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_58c19d7b8e42d2e02cc4a07e161c0370017132fe43c8f59d4dc7eacb4c62bcdf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_5eadc74e4048d55d791cb147b40f6cdec62574baff14b8fc2da2bc208802e67e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_5eb947cae1e4ba9b510e6f6ceb025ae57c6e7e95938c871306bce847a7311005.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_6345200737f52461866e2461c8b2ca9d091416be86edc93139b86fcde2557c65.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_6397d7bc42dc3c8ec0f8bcadac1242d522ebeb1230a56861951c0cffff2cd4d8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_655971f7234b61ac440f6d7876ebc22fd0f61f5a66f7f6dad129c207e991c76e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_679e1dc7cd070f4180c95e21765ced5cfb1d968328afc67c405070d3f1a6ac2f.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_68db9b820cd32c2d7a7173fdf6fa39971abdd704ff21ca604002c5dbde1b30e5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_6932507e0f15554f0e996311ff11669a04a5b09a0dbcd498cb981df06b4bf4fb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_69a1c44ea62d1210104aa024437e7876757824e60a61285dceb931b41efb9efa.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_6ad4d9bc6dc95a36efa88a864af41083a597ba7f3023f47543108cdb4d40bbde.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_6f492f30c66a36d11366571a76874834df81a6ba2b7b61cc450cb07b4ca421c5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_71ff89818b2ed730355fd7b8aa0527792b7f18653ba87ee202ce74d027f56aa9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_721ee881522417e5a14585cd74a0233eeb24da92054c81533ce33ef32bd61314.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_7763ae2db19338934928a888e1551fd35eebcd20d787daca3ca6168a7d9fc091.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_7a6a9caa94cb8ce2fc39395e993fca2430203806c3fb581bf1d35acd3f824158.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_7b3c407662a994e9d2683e75a984d708e7babd8c86684da08027d5cac2f3374a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_7ca08bfa43c04641b5e0e2f7b8b90ca0c7cdcd66189c3516de07160e3012e7de.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_7cdc042401c429f9a296c9ce2d4aabbd2f698616d7e6a6b7d487e363b0cc9f8e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_7e47c348a63695c920cf678be2452ba752220f3ab98e151850e51dc1c9dc3914.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_807e9c3580dbfee945cd9466061013a414c7aded98c080b1a92458d30d4e7ad7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_859ee7f973ae62b0d60a9e9f2d9c76ed6a44e15a93864bb56d64ce7a62abebda.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_877695e945a58faa7c06bc6297d288bcfc66193115de2ed42934ca714cc9da89.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_8b72cfac6769e93e4133ee0e4be1e5266c3134569461606d02fc6b111c7c2d4f.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_8c7567a03e43fc2f6fdc22bab45d49569e74fa3da358cd0e0465436a8cd98089.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_8ff86ac9afd0ab04e00dd964d589314f86884faf7e2405ce9949c20022cde5a1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_912dba6ce9d215160c80a7cefa160555dda104df2c9d8888273aeb4fc8bab005.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_9468af151a16c399818137e8896deaa7c244422fa7df47c11346b01d699ac7c9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_99cc0f82496a87d1440c51143571dcf5245d7a9edb8140a3dd62f3f91e2587b8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_9a3b9abaf5769fb09a10cd8633d6fd4002754bad71e54590cb23a6647ce07597.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_9ca9affc1b7d7c48fcac71d5693e27dbf8e0f5ee1b175d08d57693613e5161bb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_9d549b06a05d5f4ad9a310c90baf67df52adf952928822619e1af186a56f82c2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_a0a578dbdcf14c44392c79a23efda1c1f3fc0027e8f5eac8185beb1d873eb703.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_a4239055e2f7ffd3ed7c7741be78b67b4bc9b70bfdf3b51598276618bf8b60e0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_a5b27c8debc829c77df4b03634a38fed90545e80c1aa7c02fa4514c9718a1930.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_a5c1614f090d51f4939993ea86e42372bcd9e5116e51c591475e763833c5128c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_a93e2ff6163f2a1f19ef597c6780525c057909add04bd5e08feeea7dcaf3628b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_a94aff993e121c057e385d6a8329a9d85ab7f2429bb95b95dd5976d587bfdea5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_ab40638f180f95f661690aeb39591707665f60c05a9583579453d9c43661c120.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_ac2d6424718d3521bd7ae48bc9640027c0c1adc198b8edc39558688a13087124.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_acc8f0cd21d9b13fd0eec6fa008e04b1c31d201763a5956723ddda03dca013fe.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_b344adc004ac82ef168deeffb329b6a3074d69797a7e322adae23f651d2dc2c3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_b6a95829d721d983343f092abe41f2f2ed9dbd0c4594e8acd116808d8ff2e550.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_bf345c5cd3ffb4b9edc6cd762e91b71aea00440218e2bf1017cf6696b0f290e8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_c23d39c7631960bb6a4a9242a84bcc0be9583e88f7fc9081f249d28a1095cb62.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_c289b3fe0bb4b45a678e3e8cf6938a03e99eb4a76466eb1bd73e546747767ffa.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_c624468717c1c1f8e5bd83e6ca4e33ed119493e717072ca74d7d67eb8a785c81.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_c7760332bafd15c5dcdda9e2021f968a55ed7b7806ffc134c168a162e3936443.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_c948e42620eba4239ce9ce411f6920eca52b0fd652c96c87dd531c6b7654f35e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_cb62677d78aefb6ad393207f9028da522a7a7522d4e310e0d80cd46e71a77ee4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_cee750b3bfa11b997d806273ed1f720b2d3ec5f48eec0586e5e091e20e4e03cd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_d181c5b7e6adde87faa53fdfbda18fb14c80e2b0aa8e273ca978792637aaa923.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_d1fc5e0bbcf3b67ee2e3f5ad76454959053208b0fd8c01e335cba2c115b251cf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_d2dc91ac47be094599292e7a8511a6a6f4a3c8f6f5077ef989b1a30b9f2961ec.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_d988016c0b3d84a51108985a344d3bea63de0c2ae6c42dc82657248a883c9a8e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_dbee4c12031a9acd671daffb952619696cbd8d38d6509495a5e1583d58b08feb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_dd6f97fb94e0daf9b830440754a7665b9b8cfe4aef0b8daec290dff7bb844242.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_de876d614674d2976243bd630325da648947c39835199054a39f1916da564ec4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_e1466f125bb81c77813927ad01c5a0e3a2179e9e81f1f77ef3d6d5bae6339340.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_e4b598df3fc63c3a591bb109505030d858f935039f9a669a74d193d436fcdf8c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_e5cb33cca43d871f3fafa60178f8e0b93ffb7e14b53bc6046662100e984413a8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_ecae4a8d3714915b25902575586bac61166394d26d09ee58a5b1b933a22489f8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_f1ff9ac6b94289519e84fede5570a729d129b61d2c658aeb7a609b075869bd0a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_f7251e700aa58e196b1ce932b2d5d860b1c4f5fc97ee47de75285069ebeee517.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_f7b0ca5bb69f589864ff9d38b903ba8f0aefca8d712f07364746cb7605df82f5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_f817cc8da8a58709f18f98c225cff15db2f04f76eb24f57481b11b7e1344e264.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_f86da3f7b1106dc0679b5c1a9686391a78da5b0b84951ecbaa89eeb74c2ea446.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_fdf68edb4ff599dd3300d3b71018a53426eb314187f07ebb083de80b89f7b0dc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scaled_febfb592e7919eea9f1e8c61698c89818dea783174cd606b6aae8e89513060b1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/serenity-resources" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/unisolar/tests/DriverExtension.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/unisolar/tests/definitionSteps/DownloadDefinitionSteps.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/unisolar/tests/definitionSteps/commonDefinitionSteps.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/unisolar/tests/pages/CatalogPage.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/unisolar/tests/pages/GoodsPage.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/unisolar/tests/pages/MainPage.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/unisolar/tests/steps/CommonSteps.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/unisolar/tests/steps/DownloadSteps.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/unisolar/tests/tests/OpenCatalog.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/core/Helper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/terminal.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/jbehave/AfterStories.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/jbehave/AfterStories.stats" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/jbehave/AfterStories.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/jbehave/BeforeStories.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/jbehave/BeforeStories.stats" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/jbehave/BeforeStories.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/jbehave/stories.consult_dictionary.open_catalog.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/jbehave/stories.consult_dictionary.open_catalog.stats" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/jbehave/stories.consult_dictionary.open_catalog.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/jbehave/storyDurations.props" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/jbehave/view/AfterStories.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/jbehave/view/AfterStories.stats.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/jbehave/view/AfterStories.xml.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/jbehave/view/BeforeStories.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/jbehave/view/BeforeStories.stats.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/jbehave/view/BeforeStories.xml.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/jbehave/view/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/jbehave/view/reports.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/jbehave/view/stories.consult_dictionary.open_catalog.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/jbehave/view/stories.consult_dictionary.open_catalog.stats.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/jbehave/view/stories.consult_dictionary.open_catalog.xml.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/jbehave/view/xref.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/jbehave/view/xref.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/31ad8b1c2fcf6342eda941658f592f644fcb83d905503f9f731dd1fef85117d0.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/31ad8b1c2fcf6342eda941658f592f644fcb83d905503f9f731dd1fef85117d0.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/31ad8b1c2fcf6342eda941658f592f644fcb83d905503f9f731dd1fef85117d0_screenshots.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/SERENITY-JUNIT-31ad8b1c2fcf6342eda941658f592f644fcb83d905503f9f731dd1fef85117d0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/bootstrap/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/bootstrap/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/bootstrap/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/bootstrap/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/bootstrap/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/browser-chrome.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/css/core.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/css/link.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/css/screen.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/css/tables.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/datatables/1.10.4/media/css/jquery.dataTables.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/datatables/1.10.4/media/css/jquery.dataTables.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/datatables/1.10.4/media/css/jquery.dataTables_themeroller.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/datatables/1.10.4/media/jqueryui/dataTables.jqueryui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/datatables/1.10.4/media/jqueryui/dataTables.jqueryui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/datatables/1.10.4/media/jqueryui/dataTables.jqueryui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/datatables/1.10.4/media/jqueryui/dataTables.jqueryui.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/datatables/1.10.4/media/jqueryui/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/datatables/1.10.4/media/js/jquery.dataTables.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/datatables/1.10.4/media/js/jquery.dataTables.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/datatables/1.10.4/media/js/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/dygraph/1.1.0/dygraph-combined.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/excanvas/3/excanvas.compiled.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/excanvas/3/excanvas.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/font-awesome/HELP-US-OUT.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/font-awesome/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/font-awesome/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/font-awesome/less/animated.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/font-awesome/less/bordered-pulled.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/font-awesome/less/core.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/font-awesome/less/fixed-width.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/font-awesome/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/font-awesome/less/icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/font-awesome/less/larger.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/font-awesome/less/list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/font-awesome/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/font-awesome/less/path.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/font-awesome/less/rotated-flipped.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/font-awesome/less/screen-reader.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/font-awesome/less/stacked.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/font-awesome/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/font-awesome/scss/_animated.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/font-awesome/scss/_bordered-pulled.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/font-awesome/scss/_core.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/font-awesome/scss/_fixed-width.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/font-awesome/scss/_icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/font-awesome/scss/_larger.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/font-awesome/scss/_list.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/font-awesome/scss/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/font-awesome/scss/_path.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/font-awesome/scss/_rotated-flipped.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/font-awesome/scss/_screen-reader.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/font-awesome/scss/_stacked.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/font-awesome/scss/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/font-awesome/scss/font-awesome.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jit/2.0.1/jit-yc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jit/2.0.1/jit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jit/css/AreaChart.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jit/css/BarChart.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jit/css/ForceDirected.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jit/css/ForceDirected3D.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jit/css/HeatMap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jit/css/Hypertree.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jit/css/Icicle.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jit/css/Other.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jit/css/PieChart.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jit/css/RGraph.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jit/css/Spacetree.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jit/css/Sunburst.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jit/css/TimeGraph.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jit/css/Treemap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jit/css/base.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/excanvas.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/jquery.jqplot.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/jquery.jqplot.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.BezierCurveRenderer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.BezierCurveRenderer.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.barRenderer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.barRenderer.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.blockRenderer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.blockRenderer.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.bubbleRenderer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.bubbleRenderer.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.canvasAxisLabelRenderer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.canvasAxisLabelRenderer.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.canvasAxisTickRenderer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.canvasAxisTickRenderer.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.canvasOverlay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.canvasOverlay.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.canvasTextRenderer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.canvasTextRenderer.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.categoryAxisRenderer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.categoryAxisRenderer.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.ciParser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.ciParser.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.cursor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.cursor.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.dateAxisRenderer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.dateAxisRenderer.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.donutRenderer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.donutRenderer.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.dragable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.dragable.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.enhancedLegendRenderer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.enhancedLegendRenderer.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.funnelRenderer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.funnelRenderer.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.highlighter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.highlighter.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.json2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.json2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.logAxisRenderer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.logAxisRenderer.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.mekkoAxisRenderer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.mekkoAxisRenderer.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.mekkoRenderer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.mekkoRenderer.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.meterGaugeRenderer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.meterGaugeRenderer.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.mobile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.mobile.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.ohlcRenderer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.ohlcRenderer.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.pieRenderer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.pieRenderer.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.pointLabels.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.pointLabels.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.pyramidAxisRenderer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.pyramidAxisRenderer.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.pyramidGridRenderer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.pyramidGridRenderer.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.pyramidRenderer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.pyramidRenderer.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.trendline.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqplot/1.0.8/plugins/jqplot.trendline.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqtree/0.22/jqtree.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqtree/0.22/tree.jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqueryui/1.11.2-start/external/jquery/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqueryui/1.11.2-start/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqueryui/1.11.2-start/jquery-ui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqueryui/1.11.2-start/jquery-ui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqueryui/1.11.2-start/jquery-ui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqueryui/1.11.2-start/jquery-ui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqueryui/1.11.2-start/jquery-ui.structure.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqueryui/1.11.2-start/jquery-ui.structure.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqueryui/1.11.2-start/jquery-ui.theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/jqueryui/1.11.2-start/jquery-ui.theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/nivo-slider/3.2/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/nivo-slider/3.2/demo/demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/nivo-slider/3.2/demo/scripts/jquery-1.9.0.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/nivo-slider/3.2/demo/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/nivo-slider/3.2/jquery.nivo.slider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/nivo-slider/3.2/jquery.nivo.slider.pack.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/nivo-slider/3.2/license.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/nivo-slider/3.2/nivo-slider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/nivo-slider/3.2/nivoslider.jquery.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/nivo-slider/3.2/themes/bar/bar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/nivo-slider/3.2/themes/dark/dark.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/nivo-slider/3.2/themes/default/default.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/nivo-slider/3.2/themes/light/light.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/pagesource13631230333526481.html.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/pagesource1613298556842594792.html.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/pagesource1651955665244424403.html.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/pagesource2002738519056973342.html.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/pagesource2102337154267734176.html.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/pagesource2170854759264087019.html.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/pagesource2189908628150667950.html.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/pagesource2225020153188627275.html.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/pagesource2322537259267404813.html.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/pagesource2968681310490763101.html.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/pagesource4042772828902569608.html.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/pagesource4417387804513692179.html.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/pagesource467612282781963400.html.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/pagesource5153013647785009859.html.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/pagesource5459442563392367679.html.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/pagesource5625133660777554111.html.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/pagesource6578447844922936745.html.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/pagesource6633003114368627985.html.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/pagesource6707332383740726184.html.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/pagesource6862720332929122057.html.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/pagesource7082139442309851639.html.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/pagesource7500695801308710624.html.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/pagesource8659442323336738051.html.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/pagesource870177233472050426.html.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/pagesource8822687954682466951.html.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scripts/imgpreview.full.jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scripts/jquery-1.11.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/site/out/scripts/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/stories/consult_dictionary/narrative.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/stories/consult_dictionary/open_catalog.story" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/stories/update_definition/narrative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_20.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/unisolar/tests/definitionSteps/SearchDefinitionSteps.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/unisolar/tests/steps/SearchSteps.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/resources/stories/consult_dictionary/search.story" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/com/unisolar/tests/DriverExtension.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/unisolar/tests/DriverExtension.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/unisolar/tests/definitionSteps/DownloadDefinitionSteps.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/unisolar/tests/definitionSteps/commonDefinitionSteps.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/unisolar/tests/pages/CatalogPage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/unisolar/tests/pages/GoodsPage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/unisolar/tests/pages/MainPage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/unisolar/tests/steps/CommonSteps.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/unisolar/tests/steps/DownloadSteps.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/unisolar/tests/tests/OpenCatalog.class" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/com/unisolar/tests/definitionSteps/commonDefinitionSteps.java" afterPath="$PROJECT_DIR$/src/test/java/com/unisolar/tests/definitionSteps/CommonDefinitionSteps.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/unisolar/tests/definitionSteps/DownloadDefinitionSteps.java" afterPath="$PROJECT_DIR$/src/test/java/com/unisolar/tests/definitionSteps/DownloadDefinitionSteps.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/unisolar/tests/definitionSteps/commonDefinitionSteps.java" afterPath="$PROJECT_DIR$/src/test/java/com/unisolar/tests/definitionSteps/commonDefinitionSteps.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/unisolar/tests/pages/MainPage.java" afterPath="$PROJECT_DIR$/src/test/java/com/unisolar/tests/pages/MainPage.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/unisolar/tests/steps/CommonSteps.java" afterPath="$PROJECT_DIR$/src/test/java/com/unisolar/tests/steps/CommonSteps.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/unisolar/tests/steps/DownloadSteps.java" afterPath="$PROJECT_DIR$/src/test/java/com/unisolar/tests/steps/DownloadSteps.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/unisolar/tests/tests/OpenCatalog.java" afterPath="$PROJECT_DIR$/src/test/java/com/unisolar/tests/tests/OpenCatalog.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/core/Helper.java" afterPath="$PROJECT_DIR$/src/test/java/core/Helper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/resources/stories/consult_dictionary/open_catalog.story" afterPath="$PROJECT_DIR$/src/test/resources/stories/consult_dictionary/open_catalog.story" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jbehave/AfterStories.stats" afterPath="$PROJECT_DIR$/target/jbehave/AfterStories.stats" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jbehave/BeforeStories.stats" afterPath="$PROJECT_DIR$/target/jbehave/BeforeStories.stats" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jbehave/stories.consult_dictionary.open_catalog.stats" afterPath="$PROJECT_DIR$/target/jbehave/stories.consult_dictionary.open_catalog.stats" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jbehave/storyDurations.props" afterPath="$PROJECT_DIR$/target/jbehave/storyDurations.props" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jbehave/view/AfterStories.stats.html" afterPath="$PROJECT_DIR$/target/jbehave/view/AfterStories.stats.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jbehave/view/BeforeStories.stats.html" afterPath="$PROJECT_DIR$/target/jbehave/view/BeforeStories.stats.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jbehave/view/index.html" afterPath="$PROJECT_DIR$/target/jbehave/view/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jbehave/view/reports.html" afterPath="$PROJECT_DIR$/target/jbehave/view/reports.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jbehave/view/stories.consult_dictionary.open_catalog.stats.html" afterPath="$PROJECT_DIR$/target/jbehave/view/stories.consult_dictionary.open_catalog.stats.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jbehave/view/xref.json" afterPath="$PROJECT_DIR$/target/jbehave/view/xref.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jbehave/view/xref.xml" afterPath="$PROJECT_DIR$/target/jbehave/view/xref.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/out/31ad8b1c2fcf6342eda941658f592f644fcb83d905503f9f731dd1fef85117d0.html" afterPath="$PROJECT_DIR$/target/site/out/31ad8b1c2fcf6342eda941658f592f644fcb83d905503f9f731dd1fef85117d0.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/out/31ad8b1c2fcf6342eda941658f592f644fcb83d905503f9f731dd1fef85117d0.json" afterPath="$PROJECT_DIR$/target/site/out/31ad8b1c2fcf6342eda941658f592f644fcb83d905503f9f731dd1fef85117d0.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/out/31ad8b1c2fcf6342eda941658f592f644fcb83d905503f9f731dd1fef85117d0_screenshots.html" afterPath="$PROJECT_DIR$/target/site/out/31ad8b1c2fcf6342eda941658f592f644fcb83d905503f9f731dd1fef85117d0_screenshots.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/out/SERENITY-JUNIT-31ad8b1c2fcf6342eda941658f592f644fcb83d905503f9f731dd1fef85117d0.xml" afterPath="$PROJECT_DIR$/target/site/out/SERENITY-JUNIT-31ad8b1c2fcf6342eda941658f592f644fcb83d905503f9f731dd1fef85117d0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/out/browser-chrome.properties" afterPath="$PROJECT_DIR$/target/site/out/browser-chrome.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unisolar.iml" afterPath="$PROJECT_DIR$/unisolar.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -596,24 +62,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="commonDefinitionSteps.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/unisolar/tests/definitionSteps/commonDefinitionSteps.java">
+      <file leaf-file-name="MainPage.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/unisolar/tests/pages/MainPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="21" lean-forward="false" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+            <state relative-caret-position="204">
+              <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#723#724#0" expanded="true" />
+                <element signature="e#752#753#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OpenCatalog.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/unisolar/tests/tests/OpenCatalog.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -621,22 +79,8 @@
       <file leaf-file-name="Helper.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/core/Helper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" column="129" lean-forward="false" selection-start-line="30" selection-start-column="129" selection-end-line="30" selection-end-column="129" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#512#513#0" expanded="true" />
-                <element signature="e#562#563#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainPage.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/unisolar/tests/pages/MainPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+            <state relative-caret-position="357">
+              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -645,21 +89,28 @@
       <file leaf-file-name="CatalogPage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/unisolar/tests/pages/CatalogPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="26" />
-              <folding>
-                <marker date="1525703729186" expanded="false" signature="443:454" ph=" { " />
-                <marker date="1525703729186" expanded="false" signature="505:511" ph=" }" />
-              </folding>
+            <state relative-caret-position="68">
+              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DownloadDefinitionSteps.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/unisolar/tests/definitionSteps/DownloadDefinitionSteps.java">
+      <file leaf-file-name="SearchDefinitionSteps.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/unisolar/tests/definitionSteps/SearchDefinitionSteps.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+            <state relative-caret-position="68">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommonSteps.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/unisolar/tests/steps/CommonSteps.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -667,11 +118,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DriverExtension.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/unisolar/tests/DriverExtension.java">
+      <file leaf-file-name="Setter.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.16.20/lombok-1.16.20-sources.jar!/lombok/Setter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="358">
+              <caret line="58" column="70" lean-forward="false" selection-start-line="56" selection-start-column="6" selection-end-line="58" selection-end-column="70" />
               <folding />
             </state>
           </provider>
@@ -680,30 +131,35 @@
       <file leaf-file-name="DownloadSteps.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/unisolar/tests/steps/DownloadSteps.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+            <state relative-caret-position="153">
+              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#300#301#0" expanded="true" />
-                <element signature="e#357#358#0" expanded="true" />
-                <element signature="e#394#395#0" expanded="true" />
-                <element signature="e#443#444#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CommonSteps.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/unisolar/tests/steps/CommonSteps.java">
+      <file leaf-file-name="SearchSteps.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/unisolar/tests/steps/SearchSteps.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+            <state relative-caret-position="289">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding>
-                <marker date="1525703869023" expanded="false" signature="369:380" ph=" { " />
-                <marker date="1525703869023" expanded="false" signature="396:402" ph=" }" />
-                <marker date="1525703869023" expanded="false" signature="462:473" ph=" { " />
-                <marker date="1525703869023" expanded="false" signature="533:539" ph=" }" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#275#276#0" expanded="true" />
+                <element signature="e#349#350#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebElement.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.4.0/selenium-api-3.4.0-sources.jar!/org/openqa/selenium/WebElement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="65" column="7" lean-forward="false" selection-start-line="65" selection-start-column="7" selection-end-line="65" selection-end-column="7" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -711,9 +167,12 @@
       <file leaf-file-name="GoodsPage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/unisolar/tests/pages/GoodsPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="204">
+              <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+              <folding>
+                <element signature="e#399#400#0" expanded="true" />
+                <element signature="e#455#456#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -749,7 +208,6 @@
         <option value="$PROJECT_DIR$/src/test/java/com/unisolar/tests/pages/UnisolarCatalogPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/unisolar/tests/definitionSteps/asda.java" />
         <option value="$PROJECT_DIR$/src/test/resources/stories/consult_dictionary/LookupADefinition.story" />
-        <option value="$PROJECT_DIR$/src/test/java/com/unisolar/tests/tests/OpenCatalog.java" />
         <option value="$PROJECT_DIR$/src/test/resources/stories/consult_dictionary/OpenCatalog.story" />
         <option value="$PROJECT_DIR$/serenity.properties" />
         <option value="$PROJECT_DIR$/src/test/java/com/unisolar/tests/definitionSteps/commonDifinitionSteps.java" />
@@ -757,16 +215,21 @@
         <option value="$PROJECT_DIR$/src/test/java/Try.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/unisolar/tests/pages/GoodsPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/unisolar/tests/pages/CatalogPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/unisolar/tests/pages/MainPage.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/resources/stories/consult_dictionary/open_catalog.story" />
         <option value="$PROJECT_DIR$/src/test/java/core/TabsNavigator.java" />
         <option value="$PROJECT_DIR$/src/test/java/core/test.java" />
-        <option value="$PROJECT_DIR$/src/test/java/core/Helper.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/unisolar/tests/steps/DownloadSteps.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/unisolar/tests/steps/CommonSteps.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/unisolar/tests/definitionSteps/commonDefinitionSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/unisolar/tests/tests/OpenCatalog.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/unisolar/tests/definitionSteps/DownloadDefinitionSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/stories/consult_dictionary/open_catalog.story" />
+        <option value="$PROJECT_DIR$/src/test/resources/stories/consult_dictionary/search.story" />
+        <option value="$PROJECT_DIR$/src/test/java/com/unisolar/tests/definitionSteps/SearchDefinitionSteps.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/unisolar/tests/definitionSteps/CommonDefinitionSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/unisolar/tests/steps/DownloadSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/unisolar/tests/pages/MainPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/unisolar/tests/steps/CommonSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/core/Helper.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/unisolar/tests/steps/SearchSteps.java" />
       </list>
     </option>
   </component>
@@ -793,7 +256,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -814,6 +277,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -929,13 +395,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -1175,9 +638,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="OpenCatalog - 2018.05.05 at 14h 59m 21s.xml">
-      <configuration name="OpenCatalog" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="OpenCatalog - 2018.05.05 at 15h 00m 54s.xml">
       <configuration name="OpenCatalog" configurationId="JUnit" />
     </history-entry>
@@ -1205,6 +665,9 @@
     <history-entry file="OpenCatalog - 2018.05.07 at 17h 36m 40s.xml">
       <configuration name="OpenCatalog" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="OpenCatalog - 2018.05.11 at 13h 21m 48s.xml">
+      <configuration name="OpenCatalog" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1216,11 +679,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.4978678" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1228,10 +691,10 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5150502" sideWeight="0.4978678" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.8104794" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8104794" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22121535" sideWeight="0.4960981" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22547974" sideWeight="0.4960981" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1242,6 +705,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1286,37 +750,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/resources/stories/consult_dictionary/open_catalog.story">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/unisolar/tests/steps/DefinitionSteps.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/unisolar/tests/steps/CommonSteps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="22" />
-          <folding>
-            <marker date="1525703869023" expanded="false" signature="369:380" ph=" { " />
-            <marker date="1525703869023" expanded="false" signature="396:402" ph=" }" />
-            <marker date="1525703869023" expanded="false" signature="462:473" ph=" { " />
-            <marker date="1525703869023" expanded="false" signature="533:539" ph=" }" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/unisolar/tests/tests/OpenCatalog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/unisolar/tests/DriverExtension.java" />
     <entry file="file://$PROJECT_DIR$/src/test/resources/stories/consult_dictionary/narrative.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1336,7 +769,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#723#724#0" expanded="true" />
+            <element signature="e#752#753#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1499,14 +936,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1411">
-          <caret line="83" column="36" lean-forward="false" selection-start-line="83" selection-start-column="36" selection-end-line="83" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/assertj/assertj-core/3.9.1/assertj-core-3.9.1-sources.jar!/org/assertj/core/api/AbstractCharSequenceAssert.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1">
@@ -1518,7 +947,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="39508">
           <caret line="2572" column="54" lean-forward="false" selection-start-line="2572" selection-start-column="54" selection-end-line="2572" selection-end-column="54" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1526,26 +954,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8568">
           <caret line="535" column="0" lean-forward="false" selection-start-line="535" selection-start-column="0" selection-end-line="535" selection-end-column="0" />
-          <folding>
-            <element signature="e#17066#17067#0" expanded="true" />
-            <element signature="e#17097#17098#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/core/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/unisolar/tests/DriverExtension.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/unisolar/tests/tests/OpenCatalog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/stories/consult_dictionary/open_catalog.story">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="323">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/core/test.java">
+    <entry file="file://$PROJECT_DIR$/src/test/resources/stories/consult_dictionary/search.story">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="289">
+          <caret line="17" column="60" lean-forward="true" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
         </state>
       </provider>
     </entry>
@@ -1557,35 +989,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/unisolar/tests/definitionSteps/commonDefinitionSteps.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="21" lean-forward="false" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="833">
+          <caret line="49" column="36" lean-forward="false" selection-start-line="49" selection-start-column="36" selection-end-line="50" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/unisolar/tests/definitionSteps/DownloadDefinitionSteps.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        <state relative-caret-position="221">
+          <caret line="13" column="25" lean-forward="false" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/unisolar/tests/DriverExtension.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/unisolar/tests/definitionSteps/CommonDefinitionSteps.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="289">
+          <caret line="17" column="32" lean-forward="false" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.16.20/lombok-1.16.20-sources.jar!/lombok/Setter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="58" column="70" lean-forward="false" selection-start-line="56" selection-start-column="6" selection-end-line="58" selection-end-column="70" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/unisolar/tests/tests/OpenCatalog.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/unisolar/tests/steps/CommonSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.4.0/selenium-api-3.4.0-sources.jar!/org/openqa/selenium/WebElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="65" column="7" lean-forward="false" selection-start-line="65" selection-start-column="7" selection-end-line="65" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/core/Helper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/unisolar/tests/definitionSteps/SearchDefinitionSteps.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
@@ -1593,69 +1061,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/core/Helper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="129" lean-forward="false" selection-start-line="30" selection-start-column="129" selection-end-line="30" selection-end-column="129" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#512#513#0" expanded="true" />
-            <element signature="e#562#563#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/unisolar/tests/steps/CommonSteps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-          <folding>
-            <marker date="1525703869023" expanded="false" signature="369:380" ph=" { " />
-            <marker date="1525703869023" expanded="false" signature="396:402" ph=" }" />
-            <marker date="1525703869023" expanded="false" signature="462:473" ph=" { " />
-            <marker date="1525703869023" expanded="false" signature="533:539" ph=" }" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/unisolar/tests/steps/DownloadSteps.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        <state relative-caret-position="153">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
-            <element signature="e#394#395#0" expanded="true" />
-            <element signature="e#443#444#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/unisolar/tests/steps/SearchSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/unisolar/tests/pages/CatalogPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="26" />
-          <folding>
-            <marker date="1525703729186" expanded="false" signature="443:454" ph=" { " />
-            <marker date="1525703729186" expanded="false" signature="505:511" ph=" }" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/unisolar/tests/pages/GoodsPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="204">
+          <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="e#399#400#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/unisolar/tests/pages/MainPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
-          <folding />
+        <state relative-caret-position="204">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#723#724#0" expanded="true" />
+            <element signature="e#752#753#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

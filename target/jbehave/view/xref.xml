@@ -298,25 +298,25 @@ So that </localizedNarrative>
                     <step>Given open unisolar main page</step>
                     <type>SUCCESSFUL</type>
                     <parametrisedStep>Given open unisolar main page</parametrisedStep>
-                    <durationInMillis>4266</durationInMillis>
-                    <start>1525703788222</start>
-                    <end>1525703792488</end>
+                    <durationInMillis>5052</durationInMillis>
+                    <start>1526034095637</start>
+                    <end>1526034100689</end>
                   </successful>
                   <successful>
                     <step>When download datasheet of the goods by goods &lt;elementName&gt; from &lt;goodsName&gt;</step>
                     <type>SUCCESSFUL</type>
                     <parametrisedStep>When download datasheet of the goods by goods ｟Каталог товаров｠ from ｟Trina Solar TSM-270｠</parametrisedStep>
-                    <durationInMillis>1932</durationInMillis>
-                    <start>1525703793517</start>
-                    <end>1525703795449</end>
+                    <durationInMillis>1547</durationInMillis>
+                    <start>1526034102079</start>
+                    <end>1526034103626</end>
                   </successful>
                   <successful>
                     <step>Then compare current  pdf name with &lt;pdfName&gt;</step>
                     <type>SUCCESSFUL</type>
                     <parametrisedStep>Then compare current  pdf name with ｟Trinasolar_Honey_TSM-PD05_255-270W.pdf｠</parametrisedStep>
-                    <durationInMillis>51</durationInMillis>
-                    <start>1525703797216</start>
-                    <end>1525703797267</end>
+                    <durationInMillis>57</durationInMillis>
+                    <start>1526034105235</start>
+                    <end>1526034105292</end>
                   </successful>
                 </results>
               </steps>
@@ -433,9 +433,9 @@ So that </localizedNarrative>
       <beforeSteps/>
       <afterSteps/>
       <timing>
-        <durationInMillis>9726</durationInMillis>
-        <start>1525703788090</start>
-        <end>1525703797816</end>
+        <durationInMillis>10529</durationInMillis>
+        <start>1526034095360</start>
+        <end>1526034105889</end>
       </timing>
       <givenStory>false</givenStory>
     </performableStory>
@@ -570,25 +570,25 @@ So that </localizedNarrative>
                 <step>Given open unisolar main page</step>
                 <type>SUCCESSFUL</type>
                 <parametrisedStep>Given open unisolar main page</parametrisedStep>
-                <durationInMillis>4266</durationInMillis>
-                <start>1525703788222</start>
-                <end>1525703792488</end>
+                <durationInMillis>5052</durationInMillis>
+                <start>1526034095637</start>
+                <end>1526034100689</end>
               </successful>
               <successful>
                 <step>When download datasheet of the goods by goods &lt;elementName&gt; from &lt;goodsName&gt;</step>
                 <type>SUCCESSFUL</type>
                 <parametrisedStep>When download datasheet of the goods by goods ｟Каталог товаров｠ from ｟Trina Solar TSM-270｠</parametrisedStep>
-                <durationInMillis>1932</durationInMillis>
-                <start>1525703793517</start>
-                <end>1525703795449</end>
+                <durationInMillis>1547</durationInMillis>
+                <start>1526034102079</start>
+                <end>1526034103626</end>
               </successful>
               <successful>
                 <step>Then compare current  pdf name with &lt;pdfName&gt;</step>
                 <type>SUCCESSFUL</type>
                 <parametrisedStep>Then compare current  pdf name with ｟Trinasolar_Honey_TSM-PD05_255-270W.pdf｠</parametrisedStep>
-                <durationInMillis>51</durationInMillis>
-                <start>1525703797216</start>
-                <end>1525703797267</end>
+                <durationInMillis>57</durationInMillis>
+                <start>1526034105235</start>
+                <end>1526034105292</end>
               </successful>
             </results>
           </steps>
