@@ -10,6 +10,7 @@ import org.junit.Assert;
 public class CommonDefinitionSteps {
 
     @Steps
+    private
     CommonSteps commonSteps;
 
     @Given("open unisolar main page")

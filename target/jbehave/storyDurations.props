@@ -1,7 +1,0 @@
-#org.jbehave.core.embedder.StoryManager
-#Mon May 14 23:42:20 EEST 2018
-stories/consult_dictionary/search.story=8000
-threads=1
-total=21000
-threadAverage=21000
-stories/consult_dictionary/open_catalog.story=13000
