@@ -1,17 +1,17 @@
 package core;
 
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
+import javax.swing.*;
 
 import static net.thucydides.core.webdriver.ThucydidesWebDriverSupport.getDriver;
 
 public class Helper {
     public static void switchToTheNextTab() {
-        WebDriver driver =  getDriver();
+        WebDriver driver = getDriver();
         driver.getWindowHandles().forEach(windHandle -> driver.switchTo().window(windHandle));
     }
 
@@ -24,10 +24,12 @@ public class Helper {
         Matcher matcher = pattern.matcher(text);
         return matcher.toMatchResult().;*/
         String[] partsOfTheUrl = text.split("/");
-        return partsOfTheUrl[partsOfTheUrl.length-1];
+        return partsOfTheUrl[partsOfTheUrl.length - 1];
     }
 
-    public static void main(String[] args) {
-        System.out.println(findPdfName("http://unisolartrade.com.ua/wp-content/uploads/Trinasolar_Honey_TSM-PD05_255-270W.pdf"));
+    public static void setValueForElement(String value, WebElement element) {
+        new Actions(getDriver()).sendKeys(element, value).perform();
     }
+
+
 }

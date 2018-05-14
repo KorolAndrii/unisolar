@@ -5,7 +5,6 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 
 public class GoodsPage extends PageObject {
-
     public WebElement getDocumentationDownloadButton() {
         return getDriver().findElement(By.xpath("//a[contains(text(), 'Скачать тех паспорт')]"));
     }

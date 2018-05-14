@@ -1,0 +1,28 @@
+<div class="story">
+<h1></h1>
+<div class="path">stories/consult_dictionary/open_catalog.story</div>
+<div class="scenario">
+<h2>Scenario: Unisolar check catalog</h2>
+<div class="examples">
+<h3>Examples:</h3>
+<div class="step">Given open unisolar main page</div>
+<div class="step">When download datasheet of the goods by goods &lt;elementName&gt; from &lt;goodsName&gt;</div>
+<div class="step">Then compare current  pdf name with &lt;pdfName&gt;</div>
+<table>
+<thead>
+<tr>
+<th>elementName</th><th>goodsName</th><th>pdfName</th></tr>
+</thead>
+<tbody>
+<tr>
+<td>Каталог товаров</td><td>Trina Solar TSM-270</td><td>Trinasolar_Honey_TSM-PD05_255-270W.pdf</td></tr>
+</tbody>
+</table>
+
+<h3 class="example">Example: {elementName=Каталог товаров, goodsName=Trina Solar TSM-270, pdfName=Trinasolar_Honey_TSM-PD05_255-270W.pdf}</h3>
+<div class="step successful">Given open unisolar main page</div>
+<div class="step successful">When download datasheet of the goods by goods <span class="step parameter">Каталог товаров</span> from <span class="step parameter">Trina Solar TSM-270</span></div>
+<div class="step successful">Then compare current  pdf name with <span class="step parameter">Trinasolar_Honey_TSM-PD05_255-270W.pdf</span></div>
+</div>
+</div>
+</div>

@@ -1,0 +1,12 @@
+<story path="stories/consult_dictionary/search.story" title="">
+<narrative keyword="Narrative:">
+  <inOrderTo keyword="As a">user</inOrderTo>
+  <asA keyword="I want to">perform an action</asA>
+  <iWantTo keyword="So that">I can achieve a business goal</iWantTo>
+</narrative>
+<scenario keyword="Scenario:" title="scenario description">
+<step outcome="successful">Given open unisolar main page</step>
+<step outcome="successful">When set name of &apos;Fronius&apos; to searchfield and push enter</step>
+<step outcome="successful">Then compare the list of foundeGoodsList with the entered text &apos;Fronius&apos;</step>
+</scenario>
+</story>
